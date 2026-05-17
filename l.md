@@ -2,68 +2,68 @@
 
 ## EC7
 
-### 1.00 FUNCIONES, LIMITES Y CONTINUIDAD \| 001
+### 1.00 \| FUNCIONES, LIMITES Y CONTINUIDAD \| 001
 
-1.01 Funciones y sus gráficas \| 002
+1.01 \| Funciones y sus gráficas \| 002
 
-1.02 Operaciones con funciones y tipos de funciones \| 012
+1.02 \| Operaciones con funciones y tipos de funciones \| 012
 
-1.03 Funciones como modelos matemáticos \| 020
+1.03 \| Funciones como modelos matemáticos \| 020
 
-1.04 Introducción gráfica a los límites de funciones \| 028
+1.04 \| Introducción gráfica a los límites de funciones \| 028
 
-1.05 Definición de límite de una función y teoremas de límites \| 038
+1.05 \| Definición de límite de una función y teoremas de límites \| 038
 
-1.06 Límites laterales \| 049
+1.06 \| Límites laterales \| 049
 
-1.07 Límites infinitos \| 055
+1.07 \| Límites infinitos \| 055
 
-1.08 Continuidad de una función en un número \| 067
+1.08 \| Continuidad de una función en un número \| 067
 
-1.09 Continuidad de una función compuesta y continuidad en un intervalo
+1.09 \| Continuidad de una función compuesta y continuidad en un intervalo
 \| 076
 
-1.10 Continuidad de las funciones trigonométricas y teorema de
+1.10 \| Continuidad de las funciones trigonométricas y teorema de
 estricción \| 085
 
-1.A\_ Revisión del capítulo 1 \| 093
+1.A \| Revisión del capítulo 1 \| 093
 
-### 2.00 DERIVADA Y DIFERENCIACIÓN \| 100
+### 2.00 \| DERIVADA Y DIFERENCIACIÓN \| 100
 
-2.01 Recta tangente y derivada \| 101
+2.01 \| Recta tangente y derivada \| 101
 
-2.02 Diferenciabilidad y continuidad \| 109
+2.02 \| Diferenciabilidad y continuidad \| 109
 
-2.03 Derivado numérica \| 118
+2.03 \| Derivado numérica \| 118
 
-2.04 Teoremas sobre diferenciación de funciones algebraicas y derivadas
+2.04 \| Teoremas sobre diferenciación de funciones algebraicas y derivadas
 de orden superior \| 123
 
-2.05 Movimiento rectilíneo \| 132
+2.05 \| Movimiento rectilíneo \| 132
 
-2.06 Derivada como tasa de variación \| 145
+2.06 \| Derivada como tasa de variación \| 145
 
-2.07 Derivadas de las funciones trigonométricas \| 152
+2.07 \| Derivadas de las funciones trigonométricas \| 152
 
-2.08 Derivada de una función compuesta y regla de la cadena \| 162
+2.08 \| Derivada de una función compuesta y regla de la cadena \| 162
 
-2.09 Derivada de la función potencia para exponentes racionales y
+2.09 \| Derivada de la función potencia para exponentes racionales y
 diferenciación implícita \| 172
 
-2.10 Tasas de Variación Relacionadas \| 182
+2.10 \| Tasas de Variación Relacionadas \| 182
 
 2.A\_ Revisión del capítulo 2 \| 190
 
-### 3.00 COMPORTAMIENTO DE LAS FUNCIONES Y DE SUS GRÁFICAS, VALORES EXTREMOS Y APROXIMACIONES·· 197
+### 3.00 \| COMPORTAMIENTO DE LAS FUNCIONES Y DE SUS GRÁFICAS, VALORES EXTREMOS Y APROXIMACIONES \| 197
 
-3.01 Valores máximos y mínimos de funciones 198
+3.01 \| Valores máximos y mínimos de funciones \| 198
 
-3.02 Aplicaciones que involucran un extremo absoluto n un intervalo
-cerrado 207
+3.02 \| Aplicaciones que involucran un extremo absoluto un intervalo
+cerrado \| 207
 
-3.03 Teorema de Rolle y teorema del valor medio 215
+3.03 \| Teorema de Rolle y teorema del valor medio 215
 
-3.04 Funciones crecientes y decrecientes, y criterio de la primera
+3.04 \| Funciones crecientes y decrecientes, y criterio de la primera
 derivada 223
 
 3.05 Concavidad, puntos de inflexión y criterio de la segunda derivada
