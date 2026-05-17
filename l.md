@@ -26,7 +26,7 @@
 1.10 \| Continuidad de las funciones trigonométricas y teorema de
 estricción \| 085
 
-1.A \| Revisión del capítulo 1 \| 093
+1.A\_ \| Revisión del capítulo 1 \| 093
 
 ### 2.00 \| DERIVADA Y DIFERENCIACIÓN \| 100
 
@@ -36,8 +36,7 @@ estricción \| 085
 
 2.03 \| Derivado numérica \| 118
 
-2.04 \| Teoremas sobre diferenciación de funciones algebraicas y derivadas
-de orden superior \| 123
+2.04 \| Teoremas sobre diferenciación de funciones algebraicas y derivadas de orden superior \| 123
 
 2.05 \| Movimiento rectilíneo \| 132
 
@@ -47,8 +46,7 @@ de orden superior \| 123
 
 2.08 \| Derivada de una función compuesta y regla de la cadena \| 162
 
-2.09 \| Derivada de la función potencia para exponentes racionales y
-diferenciación implícita \| 172
+2.09 \| Derivada de la función potencia para exponentes racionales y diferenciación implícita \| 172
 
 2.10 \| Tasas de Variación Relacionadas \| 182
 
@@ -61,28 +59,27 @@ diferenciación implícita \| 172
 3.02 \| Aplicaciones que involucran un extremo absoluto un intervalo
 cerrado \| 207
 
-3.03 \| Teorema de Rolle y teorema del valor medio 215
+3.03 \| Teorema de Rolle y teorema del valor medio \| 215
 
 3.04 \| Funciones crecientes y decrecientes, y criterio de la primera
-derivada 223
+derivada \| 223
 
-3.05 Concavidad, puntos de inflexión y criterio de la segunda derivada
-231
+3.05 \| Concavidad, puntos de inflexión y criterio de la segunda derivada \| 231
 
-3.06 Trazo de las gráficas de funciones y de sus derivadas 242
+3.06 \| Trazo de las gráficas de funciones y de sus derivadas \| 242
 
-3.07 Límites al infinito 249
+3.07 \| Límites al infinito \| 249
 
-3.08 Resumen para el trazo de las gráficas de funciones 260
+3.08 \| Resumen para el trazo de las gráficas de funciones \| 260
 
-3.09 Aplicaciones adicionales sobre extremos absolutos· 260
+3.09 \| Aplicaciones adicionales sobre extremos absolutos \| 260
 
-3.10 Aproximaciones mediante el método de Newton, de la recta tangente y
-de diferenciales·· 275
+3.10 \| Aproximaciones mediante el método de Newton, de la recta tangente y
+de diferenciales \| 275
 
-3.A\_ Revisión del capítulo 3 287
+3.A\_ Revisión del capítulo 3 \| 287
 
-### 4.00 INTEGRAL DEFINIDA E INTEGRACIÓN 296
+### 4.00 \| INTEGRAL DEFINIDA E INTEGRACIÓN \| 296
 
 4.01 Antiderivación 297
 
@@ -107,7 +104,7 @@ de arandelas 381
 
 4.A\_ Revisión del capítulo 4
 
-### 5.00 FUNCIONES LOGARITMICAS, EXPONENCIALES, TRIGONOMÉTRICAS INVERSAS E HIPERBÓLICA 403
+### 5.00 \| FUNCIONES LOGARITMICAS, EXPONENCIALES, TRIGONOMÉTRICAS INVERSAS E HIPERBÓLICA \| 403
 
 5.01 Inversa de una función 404
 
@@ -130,7 +127,7 @@ logarítmicas naturales· 430
 
 5.A\_ Revisión del capítulo 5 397
 
-### 6.00 APLICACIONES ADICIONALES DE LA INTEGRAL DEFINIDA \| 508
+### 6.00 \| APLICACIONES ADICIONALES DE LA INTEGRAL DEFINIDA \| 508
 
 6.01 Longitud de arco de la gráfica de una función \| 509
 
@@ -144,7 +141,7 @@ logarítmicas naturales· 430
 
 6.A\_ Revisión del capítulo 6 \| 542
 
-### 7.00 técnicas de integración, formas indeterminadas e integrales impropias \| 544
+### 7.00 \| Técnicas de integración, formas indeterminadas e integrales impropias \| 544
 
 7.01 integración por partes \| 545
 
