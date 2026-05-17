@@ -3,290 +3,155 @@
 ## EC7
 
 ### 1.00 \| FUNCIONES, LIMITES Y CONTINUIDAD \| 001
-
 1.01 \| Funciones y sus gráficas \| 002
-
 1.02 \| Operaciones con funciones y tipos de funciones \| 012
-
 1.03 \| Funciones como modelos matemáticos \| 020
-
 1.04 \| Introducción gráfica a los límites de funciones \| 028
-
 1.05 \| Definición de límite de una función y teoremas de límites \| 038
-
 1.06 \| Límites laterales \| 049
-
 1.07 \| Límites infinitos \| 055
-
 1.08 \| Continuidad de una función en un número \| 067
-
-1.09 \| Continuidad de una función compuesta y continuidad en un intervalo
-\| 076
-
-1.10 \| Continuidad de las funciones trigonométricas y teorema de
-estricción \| 085
-
+1.09 \| Continuidad de una función compuesta y continuidad en un intervalo \| 076
+1.10 \| Continuidad de las funciones trigonométricas y teorema de estricción \| 085
 1.A\_ \| Revisión del capítulo 1 \| 093
-
+---
 ### 2.00 \| DERIVADA Y DIFERENCIACIÓN \| 100
-
 2.01 \| Recta tangente y derivada \| 101
-
 2.02 \| Diferenciabilidad y continuidad \| 109
-
 2.03 \| Derivado numérica \| 118
-
 2.04 \| Teoremas sobre diferenciación de funciones algebraicas y derivadas de orden superior \| 123
-
 2.05 \| Movimiento rectilíneo \| 132
-
 2.06 \| Derivada como tasa de variación \| 145
-
 2.07 \| Derivadas de las funciones trigonométricas \| 152
-
 2.08 \| Derivada de una función compuesta y regla de la cadena \| 162
-
 2.09 \| Derivada de la función potencia para exponentes racionales y diferenciación implícita \| 172
-
 2.10 \| Tasas de Variación Relacionadas \| 182
-
-2.A\_ Revisión del capítulo 2 \| 190
-
+2.A\_ \| Revisión del capítulo 2 \| 190
+---
 ### 3.00 \| COMPORTAMIENTO DE LAS FUNCIONES Y DE SUS GRÁFICAS, VALORES EXTREMOS Y APROXIMACIONES \| 197
-
 3.01 \| Valores máximos y mínimos de funciones \| 198
-
-3.02 \| Aplicaciones que involucran un extremo absoluto un intervalo
-cerrado \| 207
-
+3.02 \| Aplicaciones que involucran un extremo absoluto un intervalo cerrado \| 207
 3.03 \| Teorema de Rolle y teorema del valor medio \| 215
-
-3.04 \| Funciones crecientes y decrecientes, y criterio de la primera
-derivada \| 223
-
+3.04 \| Funciones crecientes y decrecientes, y criterio de la primera derivada \| 223
 3.05 \| Concavidad, puntos de inflexión y criterio de la segunda derivada \| 231
-
 3.06 \| Trazo de las gráficas de funciones y de sus derivadas \| 242
-
 3.07 \| Límites al infinito \| 249
-
 3.08 \| Resumen para el trazo de las gráficas de funciones \| 260
-
 3.09 \| Aplicaciones adicionales sobre extremos absolutos \| 260
-
-3.10 \| Aproximaciones mediante el método de Newton, de la recta tangente y
-de diferenciales \| 275
-
+3.10 \| Aproximaciones mediante el método de Newton, de la recta tangente y de diferenciales \| 275
 3.A\_ Revisión del capítulo 3 \| 287
-
+---
 ### 4.00 \| INTEGRAL DEFINIDA E INTEGRACIÓN \| 296
-
-4.01 Antiderivación 297
-
-4.02 Algunas Técnicas de Antiderivación 310
-
-4.03 Ecuaciones Diferenciales y Movimiento Rectilíneo 319
-
-4.04 Área 328
-
-4.05 Integral Definido 338
-
-4.06 Teorema del Valor Medio Para Integrales 352
-
-4.07 Teorema Fundamental Del Cálculo 360
-
-4.08 Área de una región plana 372
-
-4.09 Volúmenes de sólidos mediante los métodos de rebanado, de discos y
-de arandelas 381
-
-4.10 Volúmenes de sólidos mediante el método d e capas cilíndricas 391
-
-4.A\_ Revisión del capítulo 4
-
+4.01 \|Antiderivación \| 297
+4.02 \| Algunas Técnicas de Antiderivación \| 310
+4.03 \| Ecuaciones Diferenciales y Movimiento Rectilíneo \| 319
+4.04 \| Área \| 328
+4.05 \| Integral Definido \| 338
+4.06 \| Teorema del Valor Medio Para Integrales \| 352
+4.07 \| Teorema Fundamental Del Cálculo \| 360
+4.08 \| Área de una región plana \| 372
+4.09 \| Volúmenes de sólidos mediante los métodos de rebanado, de discos y de arandelas \| 381
+4.10 \| Volúmenes de sólidos mediante el método de capas cilíndricas \| 391
+4.A\_ Revisión del capítulo 4 \| 
+---
 ### 5.00 \| FUNCIONES LOGARITMICAS, EXPONENCIALES, TRIGONOMÉTRICAS INVERSAS E HIPERBÓLICA \| 403
-
-5.01 Inversa de una función 404
-
-5.02 Función logarítmica natural 418
-
-5.03 Diferenciación logarítmica e integrales que producen funciones
-logarítmicas naturales· 430
-
-5.04 Función exponencial natural 437
-
-5.05 Otras funciones exponenciales y logaritmicas 448
-
-5.06 Aplicaciones d e la función exponencial natural 458
-
-5.07 Funciones trigonométricas inversas 469
-
-5.08 Integrales que producen funciones trigonométricas inversas 485
-
-5.09 Funciones hiperbólicas 490
-
-5.A\_ Revisión del capítulo 5 397
+5.01 \| Inversa de una función \| 404
+5.02 \| Función logarítmica natural \| 418
+5.03 \| Diferenciación logarítmica e integrales que producen funciones logarítmicas naturales· 430
+5.04 \| Función exponencial natural \| 437
+5.05 \| Otras funciones exponenciales y logaritmicas \| 448
+5.06 \| Aplicaciones d e la función exponencial natural \| 458
+5.07 \| Funciones trigonométricas inversas \| 469
+5.08 \| Integrales que producen funciones trigonométricas inversas \| 485
+5.09 \| Funciones hiperbólicas \| 490
+5.A\_ Revisión del capítulo 5 \| 397
+---
 
 ### 6.00 \| APLICACIONES ADICIONALES DE LA INTEGRAL DEFINIDA \| 508
-
-6.01 Longitud de arco de la gráfica de una función \| 509
-
-6.03 Centro de masa de una barra \| 516
-
-6.04 Centro de masa de una lámina y centroide de una región plana \| 522
-
-6.04 Trabajo \| 530
-
-6.05 Fuerza ejercida por la presión de un líquido \| 536
-
+6.01 \| Longitud de arco de la gráfica de una función \| 509
+6.03 \| Centro de masa de una barra \| 516
+6.04 \| Centro de masa de una lámina y centroide de una región plana \| 522
+6.04 \| Trabajo \| 530
+6.05 \| Fuerza ejercida por la presión de un líquido \| 536
 6.A\_ Revisión del capítulo 6 \| 542
-
-### 7.00 \| Técnicas de integración, formas indeterminadas e integrales impropias \| 544
-
-7.01 integración por partes \| 545
-
-7.02 integrales-trigonométricas555
-
-7.03 integración de funciones algebraicas mediante sustitución
-trigonométrica \| 565
-
-7.04 integración de funciones racionales y crecimiento logístico \| 572
-
-7.05 Integración mediante otras técnicas de sustitución y tablas \| 584
-
-7.06 Integración numérica \| 591
-
-7.07 Forma indeterminada 0/0 y teorema • del valor medio de Cauchy \|
-604
-
-7.08 Otras formas indeterminadas \| 612
-
-7.09 Integrales impropias con límites de integración infinitos \| 618
-
-7.10 Otras integrales impropias \| 627
-
+---
+### 7.00 \| TÉCNICAS DE INTEGRACIÓN, FORMAS INDETERMINADAS E INTEGRALES IMPROPIAS \| 544
+7.01 \| integración por partes \| 545
+7.02 \| integrales-trigonométricas555
+7.03 \| integración de funciones algebraicas mediante sustitución trigonométrica \| 565
+7.04 \| integración de funciones racionales y crecimiento logístico \| 572
+7.05 \| Integración mediante otras técnicas de sustitución y tablas \| 584
+7.06 \| Integración numérica \| 591
+7.07 \| Forma indeterminada 0/0 y teorema • del valor medio de Cauchy \| 604
+7.08 \| Otras formas indeterminadas \| 612
+7.09 \| Integrales impropias con límites de integración infinitos \| 618
+7.10 \| Otras integrales impropias \| 627
 7.A\_ Revisión del capítulo 7 \| 632
-
-### 8.00 APROXIMACIONES POLINOMIALES, SUCECIONES Y SERIES INFINITAS 638
-
-8.01 Aproximaciones polinomiales mediante la fórmula de Taylor 639
-
-8.02 Sucesiones 647
-
-8.03 Series inférminos constantes 659
-
-8.04 Series inférminos positivos 671
-
-8.05 Series infinitas de términos positivos y negativos 684
-
-8.06 Resumen d e criterios sobre la convergencia y divergencia de series
-infinitas 695
-
-8.07 Series de potencias \| 698
-
-8.08 Diferenciación e integración de series de potencias 707
-
-8.09 Series de Taylor 718
-
-8.A\_ Revisión del capítulo 8 735
-
-### 9.00 ECUACIONES PARAMÉTRICAS, CURVAS PLANAS Y GRÁFICAS POLARES 739
-
-9.01 Ecuaciones parametricas y curtas planas 740
-
-9.02 Longitud del arco y área de una región para gráficas polares 747
-
-9.03 Coordenadas polares y Gráficas Polares 752
-
-9.04 Longitud de Arco y Área de una Región para gráficas Polares 765
-
-9.05 Tratamiento unificado de las secciones cónicas y ecuaciones polares
-de las cónicas 774
-
+---
+### 8.00 APROXIMACIONES POLINOMIALES, SUCECIONES Y SERIES INFINITAS \| 638
+8.01 \| Aproximaciones polinomiales mediante la fórmula de Taylor \| 639
+8.02 \| Sucesiones \| 647
+8.03 \| Series inférminos constantes \| 659
+8.04 \| Series inférminos positivos \| 671
+8.05 \| Series infinitas de términos positivos y negativos \| 684
+8.06 \| Resumen d e criterios sobre la convergencia y divergencia de series infinitas \| 695
+8.07 \| Series de potencias \| 698
+8.08 \| Diferenciación e integración de series de potencias \| 707
+8.09 \| Series de Taylor \| 718
+8.A\_ Revisión del capítulo 8 \| 735
+---
+### 9.00 \| ECUACIONES PARAMÉTRICAS, CURVAS PLANAS Y GRÁFICAS POLARES \| 739
+9.01 \| Ecuaciones parametricas y curtas planas \| 740
+9.02 \| Longitud del arco y área de una región para gráficas polares \| 747
+9.03 \| Coordenadas polares y Gráficas Polares \| 752
+9.04 \| Longitud de Arco y Área de una Región para gráficas Polares \| 765
+9.05 \| Tratamiento unificado de las secciones cónicas y ecuaciones polares de las cónicas \| 774
 9.A\_ Revisión del capítulo 9 \| 782
-
+---
 ### 10.00 VECTORES \| 786
-
-10.01 Vectores en el Plano \| 787
-
-10.02 Vectores en el Plano Tridimensional \| 799
-
-10.03 Producto Punto \| 811
-
-10.04 Planos y Rectas en R2 822
-
-10.05 Producto Cruz \| 833
-
-10.06 Superficies \| 846
-
+10.01 \| Vectores en el Plano \| 787
+10.02 \| Vectores en el Plano Tridimensional \| 799
+10.03 \| Producto Punto \| 811
+10.04 \| Planos y Rectas en R2 822
+10.05 \| Producto Cruz \| 833
+10.06 \| Superficies \| 846
 10.A\_ Revisión del capítulo 10 \| 860
-
+---
 ### 11.00 FUNCIONES VECTORIALES \| 864
-
-11.01 Funciones vectoriales y curvas en R \| 865
-
-11.02 Cálculo de las funciones vectoriales 872
-
-11.03 Vectores Tangente Unitario y Normal Unitario Longitud Del Arco
-como parámetro \| 882
-
-11.04 Curvatura \| 888
-
-11.05 Movimiento Curvilíneo \| 897
-
-11.A\_ Revisión del capítulo 11 909
-
+11.01 \| Funciones vectoriales y curvas en R \| 865
+11.02 \| Cálculo de las funciones vectoriales 872
+11.03 \| Vectores Tangente Unitario y Normal Unitario Longitud Del Arco como parámetro \| 882
+11.04 \| Curvatura \| 888
+11.05 \| Movimiento Curvilíneo \| 897
+11.A\_ Revisión del capítulo 11 \| 909
+---
 ### 12.00 CALCULO DIFERENCIAL DE FUNCIONES DE MÁS DE UNA VARIABLE \| 913
-
-12.01 Funciones de Más de Una Variable \| 914
-
-12.02 Límmites y Continuidad de Funciones de Más de una variables· \|
-j926
-
-12.03 Derivadas parciales \| 942
-
-12.04 Diferenciabilidad y diferencial total \| 955
-
-12.05 Regla de la cadena para funciones de más de una variable \| 965
-
-12.06 Derivadas direccionales y gradientes \| 975
-
-12.07 Planos tangentes y rectas normales a superticies \| 985
-
-12.08 Extremos de funciones de dos variables \| 990
-
-12.09 Multiplicadores de Lagrange \| 1004
-
+12.01 \| Funciones de Más de Una Variable \| 914
+12.02 \| Límmites y Continuidad de Funciones de Más de una variables· \| 926
+12.03 \| Derivadas parciales \| 942
+12.04 \| Diferenciabilidad y diferencial total \| 955
+12.05 \| Regla de la cadena para funciones de más de una variable \| 965
+12.06 \| Derivadas direccionales y gradientes \| 975
+12.07 \| Planos tangentes y rectas normales a superticies \| 985
+12.08 \| Extremos de funciones de dos variables \| 990
+12.09 \| Multiplicadores de Lagrange \| 1004
 12.A\_ Revisión del capítulo 12 \| 1014
-
+---
 ### 13.00 INTEGRACIÓN MÚLTIPLE \| 1021
-
-13.01 Coordenadas cilíndricas y esféricas \| 1022
-
-13.02 Integrales dobles \| 1028
-
-13.03 Aplicaciones de las integrales dobles \| 1041
-
-13.04 Integrales dobles en coordenadas polares \| 1052
-
-13.05 Integrales triples \| 1061
-
-13.06 Integrales triples en coordenadas cilíndricas y esféricas \| 1067
-
+13.01 \| Coordenadas cilíndricas y esféricas \| 1022
+13.02 \| Integrales dobles \| 1028
+13.03 \| Aplicaciones de las integrales dobles \| 1041
+13.04 \| Integrales dobles en coordenadas polares \| 1052
+13.05 \| Integrales triples \| 1061
+13.06 \| Integrales triples en coordenadas cilíndricas y esféricas \| 1067
 13.A\_ Revisión del capítulo 13 \| 1074
-
+---
 ### 14.00 INTRODUCCIÓN AL CÁLCULO DE CAMPOS VECTORIALES \| 1077
-
-14.01 Campos vectoriales \| 1078
-
-14.02 Integrales de línea \| 1089
-
-14.03 Integrales de línea independientes de la trayectoria \| 1098
-
-14.04 Teorema de Green \| 1108
-
-14.05 Integrales de superficie \| 1121
-
-14.06 Teorema de la divergencia de Gauss y teorema de Stokes \| 1128
-
+14.01 \| Campos vectoriales \| 1078
+14.02 \| Integrales de línea \| 1089
+14.03 \| Integrales de línea independientes de la trayectoria \| 1098
+14.04 \| Teorema de Green \| 1108
+14.05 \| Integrales de superficie \| 1121
+14.06 \| Teorema de la divergencia de Gauss y teorema de Stokes \| 1128
 14.A\_ Revisión del capítulo 14 \| 1135
+---
