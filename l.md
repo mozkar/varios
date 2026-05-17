@@ -10,15 +10,15 @@
 
 1.03 Funciones como modelos matemáticos \| 020
 
-1.04 Introducción gráfica a los límites de funciones 028
+1.04 Introducción gráfica a los límites de funciones \| 028
 
-1.05 Definición de límite de una función y teoremas de límites· 038
+1.05 Definición de límite de una función y teoremas de límites \| 038
 
 1.06 Límites laterales \| 049
 
 1.07 Límites infinitos \| 055
 
-1.08 Continuidad de una función en un número 067
+1.08 Continuidad de una función en un número \| 067
 
 1.09 Continuidad de una función compuesta y continuidad en un intervalo
 \| 076
@@ -28,31 +28,31 @@ estricción \| 085
 
 1.A\_ Revisión del capítulo 1 \| 093
 
-### 2.00 DERIVADA Y DIFERENCIACIÓN 100
+### 2.00 DERIVADA Y DIFERENCIACIÓN \| 100
 
-2.01 Recta tangente y derivada 101
+2.01 Recta tangente y derivada \| 101
 
-2.02 Diferenciabilidad y continuidad 109
+2.02 Diferenciabilidad y continuidad \| 109
 
-2.03 Derivado numérica 118
+2.03 Derivado numérica \| 118
 
 2.04 Teoremas sobre diferenciación de funciones algebraicas y derivadas
-de orden superior·· 123
+de orden superior \| 123
 
-2.05 Movimiento rectilíneo 132
+2.05 Movimiento rectilíneo \| 132
 
-2.06 Derivada como tasa de variación 145
+2.06 Derivada como tasa de variación \| 145
 
-2.07 Derivadas de las funciones trigonométricas 152
+2.07 Derivadas de las funciones trigonométricas \| 152
 
-2.08 Derivada de una función compuesta y regla de la cadena 162
+2.08 Derivada de una función compuesta y regla de la cadena \| 162
 
 2.09 Derivada de la función potencia para exponentes racionales y
-diferenciación implícita· 172
+diferenciación implícita \| 172
 
-2.10 Tasas de Variación Relacionadas 182
+2.10 Tasas de Variación Relacionadas \| 182
 
-2.A\_ Revisión del capítulo 2 190
+2.A\_ Revisión del capítulo 2 \| 190
 
 ### 3.00 COMPORTAMIENTO DE LAS FUNCIONES Y DE SUS GRÁFICAS, VALORES EXTREMOS Y APROXIMACIONES·· 197
 
@@ -109,7 +109,7 @@ de arandelas 381
 
 ### 5.00 FUNCIONES LOGARITMICAS, EXPONENCIALES, TRIGONOMÉTRICAS INVERSAS E HIPERBÓLICA 403
 
-5.01 Inversa d e una función 404
+5.01 Inversa de una función 404
 
 5.02 Función logarítmica natural 418
 
