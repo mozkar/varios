@@ -26,6 +26,7 @@
 
 1.A\_ \| Revisión del capítulo 1 \| 093
 ---
+
 ### 2.00 \| DERIVADA Y DIFERENCIACIÓN \| 100
 
 2.01 \| Recta tangente y derivada \| 101
