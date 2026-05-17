@@ -76,7 +76,7 @@
 
 3.10 \| Aproximaciones mediante el método de Newton, de la recta tangente y de diferenciales \| 275
 
-3.A\_ Revisión del capítulo 3 \| 287
+3.A\_ \| Revisión del capítulo 3 \| 287
 
 ---
 
@@ -102,7 +102,7 @@
 
 4.10 \| Volúmenes de sólidos mediante el método de capas cilíndricas \| 391
 
-4.A\_ Revisión del capítulo 4 \| 
+4.A\_ \| Revisión del capítulo 4 \| 
 
 ---
 
@@ -126,7 +126,7 @@
 
 5.09 \| Funciones hiperbólicas \| 490
 
-5.A\_ Revisión del capítulo 5 \| 397
+5.A\_ \| Revisión del capítulo 5 \| 397
 
 ---
 
@@ -142,7 +142,7 @@
 
 6.05 \| Fuerza ejercida por la presión de un líquido \| 536
 
-6.A\_ Revisión del capítulo 6 \| 542
+6.A\_ \| Revisión del capítulo 6 \| 542
 
 ---
 
@@ -168,7 +168,7 @@
 
 7.10 \| Otras integrales impropias \| 627
 
-7.A\_ Revisión del capítulo 7 \| 632
+7.A\_ \| Revisión del capítulo 7 \| 632
 
 ---
 
@@ -192,7 +192,7 @@
 
 8.09 \| Series de Taylor \| 718
 
-8.A\_ Revisión del capítulo 8 \| 735
+8.A\_ \| Revisión del capítulo 8 \| 735
 
 ---
 
@@ -208,7 +208,7 @@
 
 9.05 \| Tratamiento unificado de las secciones cónicas y ecuaciones polares de las cónicas \| 774
 
-9.A\_ Revisión del capítulo 9 \| 782
+9.A\_ \| Revisión del capítulo 9 \| 782
 
 ---
 
@@ -226,7 +226,7 @@
 
 10.06 \| Superficies \| 846
 
-10.A\_ Revisión del capítulo 10 \| 860
+10.A\_ \| Revisión del capítulo 10 \| 860
 
 ---
 
@@ -242,7 +242,7 @@
 
 11.05 \| Movimiento Curvilíneo \| 897
 
-11.A\_ Revisión del capítulo 11 \| 909
+11.A\_ \| Revisión del capítulo 11 \| 909
 
 ---
 
