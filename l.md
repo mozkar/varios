@@ -25,6 +25,7 @@
 1.10 \| Continuidad de las funciones trigonométricas y teorema de estricción \| 085
 
 1.A\_ \| Revisión del capítulo 1 \| 093
+
 ---
 
 ### 2.00 \| DERIVADA Y DIFERENCIACIÓN \| 100
@@ -50,6 +51,7 @@
 2.10 \| Tasas de Variación Relacionadas \| 182
 
 2.A\_ \| Revisión del capítulo 2 \| 190
+
 ---
 
 ### 3.00 \| COMPORTAMIENTO DE LAS FUNCIONES Y DE SUS GRÁFICAS, VALORES EXTREMOS Y APROXIMACIONES \| 197
@@ -75,6 +77,7 @@
 3.10 \| Aproximaciones mediante el método de Newton, de la recta tangente y de diferenciales \| 275
 
 3.A\_ Revisión del capítulo 3 \| 287
+
 ---
 
 ### 4.00 \| INTEGRAL DEFINIDA E INTEGRACIÓN \| 296
@@ -100,6 +103,7 @@
 4.10 \| Volúmenes de sólidos mediante el método de capas cilíndricas \| 391
 
 4.A\_ Revisión del capítulo 4 \| 
+
 ---
 
 ### 5.00 \| FUNCIONES LOGARITMICAS, EXPONENCIALES, TRIGONOMÉTRICAS INVERSAS E HIPERBÓLICA \| 403
@@ -123,6 +127,7 @@
 5.09 \| Funciones hiperbólicas \| 490
 
 5.A\_ Revisión del capítulo 5 \| 397
+
 ---
 
 ### 6.00 \| APLICACIONES ADICIONALES DE LA INTEGRAL DEFINIDA \| 508
@@ -138,6 +143,7 @@
 6.05 \| Fuerza ejercida por la presión de un líquido \| 536
 
 6.A\_ Revisión del capítulo 6 \| 542
+
 ---
 
 ### 7.00 \| TÉCNICAS DE INTEGRACIÓN, FORMAS INDETERMINADAS E INTEGRALES IMPROPIAS \| 544
@@ -163,6 +169,7 @@
 7.10 \| Otras integrales impropias \| 627
 
 7.A\_ Revisión del capítulo 7 \| 632
+
 ---
 
 ### 8.00 \| APROXIMACIONES POLINOMIALES, SUCECIONES Y SERIES INFINITAS \| 638
@@ -186,6 +193,7 @@
 8.09 \| Series de Taylor \| 718
 
 8.A\_ Revisión del capítulo 8 \| 735
+
 ---
 
 ### 9.00 \| ECUACIONES PARAMÉTRICAS, CURVAS PLANAS Y GRÁFICAS POLARES \| 739
@@ -219,6 +227,7 @@
 10.06 \| Superficies \| 846
 
 10.A\_ Revisión del capítulo 10 \| 860
+
 ---
 
 ### 11.00 \| FUNCIONES VECTORIALES \| 864
@@ -234,6 +243,7 @@
 11.05 \| Movimiento Curvilíneo \| 897
 
 11.A\_ Revisión del capítulo 11 \| 909
+
 ---
 
 ### 12.00 \| CALCULO DIFERENCIAL DE FUNCIONES DE MÁS DE UNA VARIABLE \| 913
@@ -256,7 +266,8 @@
 
 12.09 \| Multiplicadores de Lagrange \| 1004
 
-12.A\_ Revisión del capítulo 12 \| 1014
+12.A\_ \| Revisión del capítulo 12 \| 1014
+
 ---
 
 ### 13.00 \| INTEGRACIÓN MÚLTIPLE \| 1021
@@ -273,7 +284,8 @@
 
 13.06 \| Integrales triples en coordenadas cilíndricas y esféricas \| 1067
 
-13.A\_ Revisión del capítulo 13 \| 1074
+13.A\_ \| Revisión del capítulo 13 \| 1074
+
 ---
 
 ### 14.00 \| INTRODUCCIÓN AL CÁLCULO DE CAMPOS VECTORIALES \| 1077
@@ -290,5 +302,6 @@
 
 14.06 \| Teorema de la divergencia de Gauss y teorema de Stokes \| 1128
 
-14.A\_ Revisión del capítulo 14 \| 1135
+14.A\_ \| Revisión del capítulo 14 \| 1135
+
 ---
