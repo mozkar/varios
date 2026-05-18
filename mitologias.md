@@ -38,19 +38,16 @@ which foreshadows later reflections on the mutual support of
 linguistic and social conventions.
 Such characteristics have been kept in the hope of retaining some
 of the flavour of the original.
-
-PP006|}
---------------------------------------------------------------
-
-PP007|{
+<!--###### PP006|}-->
+<!--###### PP007|{-->
 
 Finally, the author's footnotes are indicated by numerals, and the
 translator's by asterisks.
 
-PP007|}
+<!--###### PP007|}-->
 --------------------------------------------------------------
 
-PP008|{
+<!--PP008|{-->
 
 ### Preface to the 1970 edition (Collection 'Points', Le Seuil, Paris)
 
@@ -86,8 +83,8 @@ as semioclasm.
 
 **February 1970** - R. B.
 
+<!-- PP008|} -->
 
-PP008|}
 ----------------------------------------------------------------
 
 PP009| {
@@ -95,6 +92,7 @@ PP009| {
 \* See Translator's Note on neologism.
 
 PP009| }
+
 -----------------------------------------------------------------
 
 
@@ -168,8 +166,7 @@ PP012|--------------------------------------------------------------------
 
 ### § THE WORLD OF WRESTLING
 
-The grandiloquent truth of gestures on life's great occasions.
-\- Baudelaire
+> The grandiloquent truth of gestures on life's great occasions. <bl> \- Baudelaire
 
 The virtue of all-in wrestling is that it is the spectacle of excess.
 Here we find a grandiloquence which must have been that of
