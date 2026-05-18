@@ -1,13 +1,7 @@
 #   MYTHOLOGIES
-
 ##  Roland Barthes
-
----
-
-PP06|{
-
+<!--PP06|{-->
 ### TRANSLATOR'S NOTE
-
 The style of Mythologies, which strikes one at first as being highly
 poetic and idiosyncratic, later reveals a quasi-technical use of
 certain terms. This is in part due to an effort to account for the
@@ -43,12 +37,8 @@ of the flavour of the original.
 
 Finally, the author's footnotes are indicated by numerals, and the
 translator's by asterisks.
-
-<!--###### PP007|}-->
---------------------------------------------------------------
-
-<!--PP008|{-->
-
+<!--###### PP007|}---------------------------------------------------------------->
+<!--PP008|{---------------------------------------------------------------->
 ### Preface to the 1970 edition (Collection 'Points', Le Seuil, Paris)
 
 This book has a double theoretical framework: on the one hand, an
@@ -81,21 +71,11 @@ denunciation without an appropriate method of detailed analysis,
 no semiology which cannot, in the last analysis, be acknowledged
 as semioclasm.
 
-**February 1970** - R. B.
-
-<!-- PP008|} -->
-
-----------------------------------------------------------------
-
-PP009| {
-
-\* See Translator's Note on neologism.
-
-PP009| }
-
------------------------------------------------------------------
-
-
+**February 1970 - R. B.**
+<!-- PP008 ----------------------------------------------------------------->
+<!-- PP009 ----------------------------------------------------------------->
+> \* See Translator's Note on neologism.
+<!-- PP009 ----------------------------------------------------------------->
 ### PREFACE
 
 The following essays were written one each month for about two
@@ -130,9 +110,7 @@ phenomena that I attempted to define contemporary myth in
 methodical fashion; I have naturally placed this particular essay at
 the end of the book, since all it does is systematize topics discussed
 previously.
-
-PP010|------------------------------------------------------------------
-
+<!--PP010|------------------------------------------------------------------>
 Having been written month by month, these essays do not pretend
 to show any organic development: the link between them is rather
 one of insistence and repetition. For while I don't know whether, as
@@ -154,15 +132,13 @@ of my time, which may well make sarcasm the condition of truth.
 
 1957 - R. B.
 
-\* 'Bis repetita placent': a paraphrase, used in French, of Horace's
-saying 'Haec decies repetita placebit' (__Ars Poetica__).
+> *\* 'Bis repetita placent'*: a paraphrase, used in French, of Horace'ssaying *Haec decies repetita placebit* (__Ars Poetica__).
 
-
-PP011|-------------------------------------------------------------------
+<!--PP011|------------------------------------------------------------------->
 
 # MYTHOLOGIES
 
-PP012|--------------------------------------------------------------------
+<!--PP012|-------------------------------------------------------------------->
 
 ### § THE WORLD OF WRESTLING
 
@@ -197,10 +173,7 @@ it thinks but what it sees.
 
 This public knows very well the distinction between wrestling and
 boxing; it knows that boxing is a jansenist sport, based on a
-demonstration of excellence. One can bet on the outcome of a
-
-PP013|--------------------------------------------------------------------
-
+demonstration of excellence. One can bet on the outcome of a <!--|13|-->
 boxing-match: with wrestling, it would make no sense. A boxing-
 match is a story which is constructed before the eyes of the
 spectator; in wrestling, on the contrary, it is each moment which is
@@ -237,8 +210,7 @@ like a pause in music, corresponds to the mask of antiquity meant
 to signify the tragic mode of the spectacle. In wrestling, as on the
 stage in antiquity, one is not ashamed of one's suffering, one
 knows how to cry, one has a liking for tears.
-
-PP014|--------------------------------------------------------------------
+<!--PP014|-------------------------------------------------------------------->
 
 Each sign in wrestling is therefore endowed with an absolute
 clarity, since one must always understand everything on the spot.
@@ -277,10 +249,7 @@ as Pantaloon can never be anything but a ridiculous cuckold,
 Harlequin an astute servant and the Doctor a stupid pedant, in the
 same way Thauvin will never be anything but an ignoble traitor,
 Reinières (a tall blond fellow with a limp body and unkempt hair)
-the moving image of passivity, Mazaud (short and arrogant like a
-
-PP015|--------------------------------------------------------------------
-
+the moving image of passivity, Mazaud (short and arrogant like a<!--|15|-->
 cock) that of grotesque conceit, and Orsano (an effeminate teddy-
 boy first seen in a blue-and-pink dressing-gown) that, doubly
 humorous, of a vindictive salope, or bitch (for I do not think that
@@ -318,10 +287,7 @@ genuine or not. What the public wants is the image of passion, not
 passion itself. There is no more a problem of truth in wrestling
 than in the theatre. In both, what is expected is the intelligible
 representation of moral situations which are usually private. This
-emptying out of interiority to the benefit of its exterior signs, this
-
-PP016|--------------------------------------------------------------------
-
+emptying out of interiority to the benefit of its exterior signs, this<!--PP016|-->
 exhaustion of the content by the form, is the very principle of
 triumphant classical art. Wrestling is an immediate pantomime,
 infinitely more efficient than the dramatic pantomime, for the
@@ -359,10 +325,7 @@ which appeared without intelligible cause would not be
 understood; a concealed action that was actually cruel would
 transgress the unwritten rules of wrestling and would have no more
 sociological efficacy than a mad or parasitic gesture. On the
-contrary suffering appears as inflicted with emphasis and
-
-PP017|--------------------------------------------------------------------
-
+contrary suffering appears as inflicted with emphasis and<!--PP017|-->
 conviction, for everyone must not only see that the man suffers,
 but also and above all understand why he suffers. What wrestlers
 call a hold, that is, any figure which allows one to immobilize the
@@ -400,10 +363,7 @@ We have already seen to what extent wrestlers exploit the
 resources of a given physical style, developed and put to use in
 order to unfold before the eyes of the public a total image of
 Defeat. The flaccidity of tall white bodies which collapse with one
-blow or crash into the ropes with arms flailing, the inertia of
-
-PP018|--------------------------------------------------------------------
-
+blow or crash into the ropes with arms flailing, the inertia of<!--18|-->
 massive wrestlers rebounding pitiably off all the elastic surfaces of
 the ring, nothing can signify more clearly and more passionately
 the exemplary abasement of the vanquished. Deprived of all
@@ -441,10 +401,7 @@ indignation of the public by presenting the very limit of the
 concept of justice, this outermost zone of confrontation where it is
 enough to infringe the rules a little more to open the gates of a
 world without restraints. For a wrestling-fan, nothing is finer than
-the revengeful fury of a betrayed fighter who throws himself
-
-PP019|--------------------------------------------------------------------
-
+the revengeful fury of a betrayed fighter who throws himself <!--|19|-->
 vehemently not on a successful opponent but on the smarting
 image of foul play. Naturally, it is the pattern of Justice which
 matters here, much more than its content: wrestling is above all a
@@ -482,10 +439,7 @@ behind the ropes while ostensibly invoking a purely formal right,
 refusing to shake hands with one's opponent before or after the
 fight, taking advantage of the end of the round to rush
 treacherously at the adversary from behind, fouling him while the
-referee is not looking (a move which obviously only has any value
-
-PP020|--------------------------------------------------------------------
-
+referee is not looking (a move which obviously only has any value <!--PP020|-->
 or function because in fact half the audience can see it and get
 indignant about it). Since Evil is the natural climate of wrestling, a
 fair fight has chiefly the value of being an exception. It surprises
@@ -523,10 +477,7 @@ leading character, permanent and multiform like Punch or Scapino,
 inventive in unexpected figures and yet always faithful to his role.
 The 'bastard' is here revealed as a Molière character or a 'portrait'
 by La Bruyère, that is to say as a classical entity, an essence,
-whose acts are only significant epiphenomena arranged in time.
-
-PP021|--------------------------------------------------------------------
-
+whose acts are only significant epiphenomena arranged in time. <!--PP021|-->
 This stylized character does not belong to any particular nation or
 party, and whether the wrestler is called Kuzchenko (nicknamed
 Moustache after Stalin), Yerpazian, Gaspardi, Jo Vignola or
@@ -564,10 +515,7 @@ so as to make them conform to the image which the public has of
 the great legendary themes of its mythology. A wrestler can irritate
 or disgust, he never disappoints, for he always accomplishes
 completely, by a progressive solidification of signs, what the
-public expects of him. In wrestling, nothing exists except in the
-
-PP022|--------------------------------------------------------------------
-
+public expects of him. In wrestling, nothing exists except in the <!--PP022|-->
 absolute, there is no symbol, no allusion, everything is presented
 exhaustively. Leaving nothing in the shade, each action discards all
 parasitic meanings and ceremonially offers to the public a pure and
@@ -592,14 +540,10 @@ moments, the key which opens Nature, the pure gesture which
 separates Good from Evil, and unveils the form of a justice which
 is at last intelligible.
 
-\* In Molière's L'École des Femmes and Racine's Andromaque.
-
-\* In Molière's L'Avare.
-
-PP023|--------------------------------------------------------------------
-
-### THE ROMANS IN FILMS
-
+> \* In Molière's *L'École des Femmes and Racine's Andromaque*.
+> \* In Molière's *L'Avare*.
+<!--PP023|-------------------------------------------------------------------->
+### § THE ROMANS IN FILMS
 
 In Mankiewicz's Julius Caesar, all the characters are wearing
 fringes. Some have them curly, some straggly, some tufted, some
@@ -634,9 +578,7 @@ aim appear clearly. But this very fringe, when combed on the only
 naturally Latin forehead in the film, that of Marlon Brando,
 impresses us and does not make us laugh; and it is not impossible
 that part of the success of this actor in Europe is due to the perfect
-
-PP024|--------------------------------------------------------------------
-
+<!--PP024|-------------------------------------------------------------------->
 integration of Roman capillary habits with the general morphology
 of the characters he usually portrays. Conversely, one cannot
 believe in Julius Caesar, whose physiognomy is that of an Anglo-
@@ -675,9 +617,7 @@ physiological labour produced in them by a virtue just about to
 give birth to a crime. To sweat is to think - which evidently rests
 on the postulate, appropriate to a nation of businessmen, that
 thought is a violent, cataclysmic operation, of which sweat is only
-
-PP025|--------------------------------------------------------------------
-
+<!--PP025|-------------------------------------------------------------------->
 the most benign symptom. In the whole film, there is but one man
 who does not sweat and who remains smooth-faced, unperturbed
 and watertight: Caesar. Of course Caesar, the object of the crime,
@@ -707,7 +647,11 @@ which is peculiar to bourgeois art: between the intellectual and the
 visceral sign is hypocritically inserted a hybrid, at once elliptical
 and pretentious, which is pompously christened 'nature'.
 
-PP026|--------------------------------------------------------------------
+---
+
+<!--PP026|-------------------------------------------------------------------->
+
+---
 
 ### THE WRITER ON HOLIDAY
 
