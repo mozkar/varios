@@ -541,6 +541,7 @@ separates Good from Evil, and unveils the form of a justice which
 is at last intelligible.
 
 > \* In Molière's *L'École des Femmes and Racine's Andromaque*.
+
 > \* In Molière's *L'Avare*.
 <!--PP023|-------------------------------------------------------------------->
 ### § THE ROMANS IN FILMS
@@ -550,14 +551,14 @@ fringes. Some have them curly, some straggly, some tufted, some
 oily, all have them well combed, and the bald are not admitted,
 although there are plenty to be found in Roman history. Those who
 have little hair have not been let off for all that, and the hairdresser
-- the king-pin of the film - has still managed to produce one last
+\- the king-pin of the film \- has still managed to produce one last
 lock which duly reaches the top of the forehead, one of those
 Roman foreheads, whose smallness has at all times indicated a
 specific mixture of self-righteousness, virtue and conquest.
 
 What then is associated with these insistent fringes? Quite simply
-the label of Roman-ness. We therefore see here the mainspring of
-the Spectacle - the sign - operating in the open. The frontal lock
+the label of Romanness. We therefore see here the mainspring of
+the Spectacle \- the sign \- operating in the open. The frontal lock
 overwhelms one with evidence, no one can doubt that he is in
 Ancient Rome. And this certainty is permanent: the actors speak,
 act, torment themselves, debate 'questions of universal import',
@@ -616,8 +617,7 @@ ceaselessly perspiring too, testifying thereby to the enormous
 physiological labour produced in them by a virtue just about to
 give birth to a crime. To sweat is to think - which evidently rests
 on the postulate, appropriate to a nation of businessmen, that
-thought is a violent, cataclysmic operation, of which sweat is only
-<!--PP025|-------------------------------------------------------------------->
+thought is a violent, cataclysmic operation, of which sweat is only <!--25|-->
 the most benign symptom. In the whole film, there is but one man
 who does not sweat and who remains smooth-faced, unperturbed
 and watertight: Caesar. Of course Caesar, the object of the crime,
@@ -645,15 +645,9 @@ make the world more explicit, it is both reprehensible and deceitful
 to confuse the sign with what is signified. And it is a duplicity
 which is peculiar to bourgeois art: between the intellectual and the
 visceral sign is hypocritically inserted a hybrid, at once elliptical
-and pretentious, which is pompously christened 'nature'.
+and pretentious, which is pompously christened 'nature'. <!--26|-->
 
----
-
-<!--PP026|-------------------------------------------------------------------->
-
----
-
-### THE WRITER ON HOLIDAY
+### § THE WRITER ON HOLIDAY
 
 Gide was reading Bossuet while going down the Congo. This
 posture sums up rather well the ideal of our writers 'on holiday', as
@@ -774,7 +768,7 @@ natural as his vestimentary or gustatory functions.
 
 PP030|--------------------------------------------------------------------
 
-### THE 'BLUE BLOOD' CRUISE
+### § THE 'BLUE BLOOD' CRUISE
 
 Ever since the Coronation, the French had been pining for fresh
 news about royal activities, of which they are extremely fond; the
@@ -846,7 +840,7 @@ Juan of Spain is sent to the rescue of Spanish Fascism
 
 PP032|--------------------------------------------------------------
 
-### BLIND AND DUMB CRITICISM
+### § BLIND AND DUMB CRITICISM
 
 Critics (of books or drama) often use two rather singular
 arguments. The first consists in suddenly deciding that the true
@@ -924,7 +918,7 @@ the delightfully 'harmless' confession you make of it.
 
 PP034|--------------------------------------------------------------
 
-### SOAP-POWDERS AND DETERGENTS
+### § SOAP-POWDERS AND DETERGENTS
 
 The first World Detergent Congress (Paris, September 1954) had
 the effect of authorizing the world to yield to Omo euphoria: not
@@ -1010,7 +1004,7 @@ plane of the Anglo-Dutch trust Unilever.
 
 PP037|--------------------------------------------------------------
 
-### THE POOR AND THE PROLETARIAT
+### § THE POOR AND THE PROLETARIAT
 
 Charlie Chaplin's latest gag has been to transfer half of his Soviet
 prize into the funds of the Abbé Pierre. At bottom, this amounts to
@@ -1649,7 +1643,7 @@ substance. The face of Garbo is an Idea, that of Hepburn, an Event.
 
 PP057|--------------------------------------------------------------
 
-### j§ WINE AND MILK
+### § WINE AND MILK
 
 Wine is felt by the French nation to be a possession which is its
 very own, just like its three hundred and sixty types of cheese and
@@ -1876,7 +1870,7 @@ sign of Frenchness.
 
 PP064|--------------------------------------------------------------
 
-### § The Nautilus and the Drunken Boat
+### § The Nautilus and the Drunken Boat.
 
 The work of Jules Verne (whose centenary was recently
 celebrated) would be a good subject for a structural study: it is
@@ -2754,7 +2748,7 @@ hidden interests of Order.
 
 PP093|-------------------------------------------------------------
 
-### THE LOST CONTINENT
+### § THE LOST CONTINENT
 
 A film, The Lost Continent, throws a clear light on the current
 myth of exoticism. It is a big documentary on 'the East', the pretext
@@ -3658,7 +3652,7 @@ to a highly sensible proportional rule
 
 PP119|-------------------------------------------------------------------
 
-### § THE SIGNNIFICATION
+### § THE SIGNIFICATION
  
 In semiology, the third term is nothing but the association of the first
 two, as we saw. It is the only one which is allowed to be seen in a full
@@ -4578,18 +4572,14 @@ the myth comes from its situation. Myth, as we know, is a value: it
 is enough to modify its circumstances, the general (and precarious)
 system in which it occurs, in order to regulate its scope with great
 accuracy. The field of the myth is in this case reduced to the
-second form of a French lycee. But I suppose that a child
-
-PP144|----------------------------------------------------------
-
+second form of a French lycee. But I suppose that a child <!--144|-->
 *enthralled* by the story of the lion, the heifer and the cow, and
 recovering through the life of the imagination the actual reality of
 these animals, would appreciate with much less unconcern than we
 do the disappearance of this lion changcd into a predicate. In fact,
 we hold this myth to be politically insignificant only because it is
 not meant for us.
-
-PP145|----------------------------------------------------------
+<!--PP145|---------------------------------------------------------->
 
 ### § MYTH ON THE LEFT
 
@@ -4611,7 +4601,8 @@ the 'tree-celebrated' which becomes the instrument of my language.
 I no longer have anything more than an intransitive relationship
 with the tree; this tree is no longer the meaning of reality as a
 human action, it is an image-at-one's-disposal. Compared to the
-real language of the woodcutter, the language I create is a secondorder language, a metalanguage in which I shall henceforth not 'act
+real language of the woodcutter, the language I create is a secon 
+dorder language, a metalanguage in which I shall henceforth not 'act
 the things' but 'act their names', and which is to the primary
 language what the gesture is to the act. This second-order language
 is not entirely mythical, but it is thbut it is the very locus where myth settles;
@@ -4624,10 +4615,7 @@ transform reality and no longer to preserve it as an image,
 wherever he links his language to the making of things,
 metalanguage is referred to a language-object, and myth is
 impossible. This is why revolutionary language proper cannot be
-mythical. Revolution is defined as a cathartic act meant to reveal
-
-PP146|-----------------------------------------------------------
-
+mythical. Revolution is defined as a cathartic act meant to reveal <!--PP146|-->
 the political load of the world: it makes the world; and its
 language, all of it, is functionally absorbed in this making. It is
 because it generates speech which is fully, that is to say initially
@@ -4661,14 +4649,11 @@ signification, which was a sanctified Stalin, whose historical
 determinants found themselves grounded in nature, sublimated
 under the name of Genius, that is, something irrational and
 inexpressible: here, depoliticization is evident, it fully reveals the
-presence of a myth^24^.
+presence of a myth.^24^
 
 Yes, myth exists on the Left, but it does not at all have there the
 same qualities as bourgeois myth. *Left-wing myth* is inessential. To
-start with, the objects which it takes hold of are rare - only a few 
-
-PP147|--------------------------------------------------------------
-
+start with, the objects which it takes hold of are rare - only a few  <!--|147|-->
 political notions - unless it has itself recourse to the whole
 repertoire of the bourgeois myths. Left-wing myth never reaches
 the immense field of human relationships, the very vast surface of
@@ -4700,15 +4685,11 @@ language: he has only one, always the same, that of his actions;
 metalanguage is a luxury, he cannot yet have access to it. The
 speech of the oppressed is real, like that of the woodcutter; it is a
 transitive type of speech: it is quasi-unable to lie; lying is a
-richness, a lie presupposes property, truths and forms to spare. This 
-
-PP148|----------------------------------------------------------
-
+richness, a lie presupposes property, truths and forms to spare. This <!--148|-->
 empty form, open to the innocence of a false Nature. One can say
 that in a sense, Left-wing myth is always an artificial myth, a
 reconstituted myth: hence its clumsiness. 
-
-PP149|----------------------------------------------------------
+<!--|149|------------------------------------------------------------->
 
 ### § MYTH ON THE RIGHT
 
