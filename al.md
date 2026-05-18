@@ -8,7 +8,7 @@
 proporción
 > en cualquier proporcion, el producto de los medios es igual al producto de los extremos.
 
-> si $a\b = c\d$, entonces $a\c aa= b\d.$
+> si $$a\b = c\d$$, entonces $a\c aa= b\d.$
 
 
 7 WCUACI9NES CUADRATICAS 145
