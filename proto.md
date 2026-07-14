@@ -1,24 +1,14 @@
-Aquí tienes el texto convertido a \*\*Markdown\*\*, limpio y estructurado formalmente para respetar el formato académico del artículo (con encabezados, citas en bloque, listas limpias y la separación original de las páginas):
+---
+
+# Sign Systems Studies 29(1):13–26
+
+## PROTOSEMIOTICS AND PHYSICOSEMIOSIS
+
+**Winfried Nöth** \[1]
 
 
 
-\---
-
-
-
-\# Sign Systems Studies 29(1):13–26
-
-
-
-\## PROTOSEMIOTICS AND PHYSICOSEMIOSIS
-
-
-
-\*\*Winfried Nöth\*\* \[1]
-
-
-
-\### ABSTRACT
+### ABSTRACT
 
 
 
@@ -26,11 +16,11 @@ Protosemiotics is the study of the rudiments of semiosis, primarily in nature. T
 
 
 
-\---
+---
 
 
 
-\### 1. PROTOSEMIOTICS
+### 1. PROTOSEMIOTICS
 
 
 
@@ -46,11 +36,11 @@ Closer to our definition of protosemiotics is the way Giorgio Prodi (1983) discu
 
 
 
-\---
+---
 
 
 
-\### 2. PROTOSEMIOSIS AND THE SEMIOTIC THRESHOLDS
+### 2. PROTOSEMIOSIS AND THE SEMIOTIC THRESHOLDS
 
 
 
@@ -70,11 +60,11 @@ Today, even the possibility of semiosis in the prebiological world is a topic on
 
 
 
-\---
+---
 
 
 
-\### 3. PANSEMIOTICS?
+### 3. PANSEMIOTICS?
 
 
 
@@ -94,11 +84,11 @@ Nevertheless, Charles Sanders Peirce is the crown witness of both the advocates 
 
 
 
-\---
+---
 
 
 
-\### 4. PROTOSEMIOSIS IN ORGANISMS
+### 4. PROTOSEMIOSIS IN ORGANISMS
 
 
 
@@ -118,11 +108,11 @@ The premises of the view that protosemiosis takes place in an organism that "rea
 
 
 
-\---
+---
 
 
 
-\### 5. IS THERE FINAL CAUSALITY IN OBJECTS THAT SERVE AS A POTENTIAL SIGN?
+### 5. IS THERE FINAL CAUSALITY IN OBJECTS THAT SERVE AS A POTENTIAL SIGN?
 
 
 
@@ -136,51 +126,27 @@ It has been argued that every natural object is a potential sign since there is 
 
 Based on the semiotics of the late Scholastic semiotician Poinsot, Deely (1990:90-91; 1994:198) develops the thesis that physicosemiosis is the potential of natural objects to be taken as signs. One of Poinsot's semiotic maxims was: "It suffices to be a sign virtually in order to signify in act". From this principle, Deely derives the argument that not only the interpreted, but also the uninterpreted nature is endowed with semioticity and that this semioticity is a virtual one. Semiosis in the physical world is hence a "virtual semiosis". The "action" of the virtual sign is directed towards its interpretation somewhere in the future, but its effect, namely an actual interpretation, depends largely on chance (Deely 1994:199-200). A still undiscovered fossilization of a dinosaur bone in my garden would be such a virtual sign, says Deely. It is, so to speak, dormant until it comes to life in an actual instance of sign interpretation, but it is nevertheless a sign.
 
-
-
 Deely (1994:174) even attests a triadic nature to this natural sign: \*\*A\*\*, the sign, is the bone of the dinosaur. \*\*B\*\*, its object, is the once living dinosaur to which it once belonged. \*\*C\*\*, its interpretant, is the present geological stone formation which was once a real bone.
-
-
 
 However, if semiosis exists already in a natural phenomenon before it is interpreted as a natural sign, such a virtual sign is really defined independently of its actualization in a future interpretation, and in fact, Deely (1994:174) goes so far as to argue that the undiscovered fossil in my garden already constitutes a semiotic triad before and independently of its future interpretation: this triad consists of the ancient bone as a sign, the dinosaur as its object, and its present state of fossilization as its interpretant. It is hard to see in how far this triad is more than a concatenation of two dyads of a very different kind, namely a cause-effect relationship which connects the present fossil with the bone seventy million years ago (see also Short 1998:48) and a part-whole relationship between the bone and the animal, whose bone was later fossilized.
 
-
-
 The actualization of this potential of natural objects to be interpreted as signs depends on chance, since the number of natural objects with a potential semioticity to some interpreter is infinite, and the chances of these objects to be interpreted as signs depend on the interpreters' fortuitous encounter with these objects. Chance, however, belongs to the category of secondness. It can only be the source of efficient causality, which is dyadic, not of final causality, which is triadic. Hence the so-called potential sign as such is not a sign endowed with teleology.
-
-
 
 In this context it is interesting to note that today research in autocatalytics shows that biosemiosis cannot have its roots in chance. Stuart Kauffman (1995), e.g., gives evidence from mathematics, where the improbability of the chance encounter of elements of matter to create life can been demonstrated by probability calculus. If life did not originate from chance, it cannot be expected that protosemiosis in general can have its origins in chance.
 
+---
 
-
-\---
-
-
-
-\### 6. TELEOLOGY IN NATURAL SIGNS
-
-
+### 6. TELEOLOGY IN NATURAL SIGNS
 
 But how can final causality, "the purpose of a sign", be at work in a natural sign which does not have a sender? One of the effects of teleology in any semiosis, according to Peirce, is the control that the object of the sign exerts on the outcome of its interpretation, i.e., the interpretant. The natural object imposes, so to speak, cognitive constraints on the interpreter, and such restraints cause a restriction of the possibilities of its interpretation.
 
-
-
 Ransdell (1977:173) illustrates such an effect of protosemiotic teleology in the interpretation of a natural sign with the example of traces on the ground which indicate the former presence of a tiger. According to Ransdell, the (dynamical) natural object in this situation exerts a kind of control on the interpreter by means of:
-
-
 
 > "further signs whose unquestioned interpretation can go towards determining the correctness or incorrectness of the interpretation in question. Such further signs might be, for example visual percepts of the animal, its smell, its roar \[...] and so on".
 
-
-
 Hence, it is not the subject that constructs its environment, but subject and object presuppose each other like lock and key. The dynamical force of semiosis has its source both in the interpreter and in the object of the natural sign. Semiosis does not originate in an autonomous interpreting subject, but both in the so-called subject and the object with which it is confronted.
 
-
-
 With different arguments, Prodi (1988) in his account of biological protosemiosis equally ascribes semiotic autonomy to the object of the sign in relation to its interpreter. Protosemiosis, according to this model, is based on the logic of the complementarity between a selecting A, the interpreter, and a selected B, the sign:
-
-
 
 ```text
 
@@ -196,7 +162,7 @@ A ( ⇔  •  c  ac (•
 
 
 
-\*Figure 1. Protosemiosis according to Prodi (from Cimatti 2000:363).\*
+*Figure 1. Protosemiosis according to Prodi (from Cimatti 2000:363).*
 
 
 
@@ -208,11 +174,11 @@ Cimatti (2000:363-364) summarizes Prodi's ideas on this protosemiotic constellat
 
 
 
-\---
+---
 
 
 
-\### 7. PROTOSEMIOTICS IN COMPLEX PHYSICAL SYSTEMS
+### 7. PROTOSEMIOTICS IN COMPLEX PHYSICAL SYSTEMS
 
 
 
@@ -236,11 +202,11 @@ In spite of their common foundation in teleology, there are, of course, also dif
 
 
 
-\---
+---
 
 
 
-\### 8. PROTOSEMIOSIS IN MACHINES
+### 8. PROTOSEMIOSIS IN MACHINES
 
 
 
@@ -284,11 +250,11 @@ Peirce did not believe in the dualism between mind and matter. He defended the g
 
 
 
-\---
+---
 
 
 
-\### 9. METAPHYSICAL PROTOSEMIOSIS AND THE CONTINUITY FROM MIND TO MATTER
+### 9. METAPHYSICAL PROTOSEMIOSIS AND THE CONTINUITY FROM MIND TO MATTER
 
 
 
@@ -308,11 +274,11 @@ This is why Peirce can say that matter is mind frozen "to regular routine" (CP 6
 
 
 
-\---
+---
 
 
 
-\### FOOTNOTES:
+### FOOTNOTES:
 
 
 
@@ -324,11 +290,10 @@ e-mail: noeth@uni-kassel.de
 
 
 
-\---
+---
 
 
-
-\### REFERENCES:
+### REFERENCES:
 
 
 
