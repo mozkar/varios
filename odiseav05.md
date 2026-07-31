@@ -26,15 +26,15 @@
 ΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞ<br>
 <br>
 <br>
-01  001  Musa,  dime  del  hábil  varón  que  en  su  largo  extravio<br>
-01  002  tras  haber  arrasado  el  alcázar  sagrado  de  Troya, <br>
-01  003  conoció  las  ciudades  y  el  genio  de  innúmeras  gentes. <br>
-01  004  Muchos  males  pasó  por  las  rutas  marinas  luchando <br>
-01  005  por  sí  mismo  y  su  vida  y  la  vuelta  al  hogar  de  sus  hombres, <br>
-01  006  pero  a  éstos  no  pudo  salvarlos  con  todo  su  empeño, <br>
-01  007  que  en  las  propias  locuras  hallaron  la  muerte.  ¡Insensatos! <br>
-01  008  Devoraron  las  vacas  del  Sol  Hiperión  e,  irritada <br>
-01  009  la  deidad,  los  privó  de  la  luz  del  regreso.  Principio <br>
+01  001 | Musa,  dime  del  hábil  varón  que  en  su  largo  extravio<br>
+01  002 | tras  haber  arrasado  el  alcázar  sagrado  de  Troya, <br>
+01  003 | conoció  las  ciudades  y  el  genio  de  innúmeras  gentes. <br>
+01  004 | Muchos  males  pasó  por  las  rutas  marinas  luchando <br>
+01  005 | por  sí  mismo  y  su  vida  y  la  vuelta  al  hogar  de  sus  hombres, <br>
+01  006 | pero  a  éstos  no  pudo  salvarlos  con  todo  su  empeño, <br>
+01  007 | que  en  las  propias  locuras  hallaron  la  muerte.  ¡Insensatos! <br>
+01  008 | Devoraron  las  vacas  del  Sol  Hiperión  e,  irritada <br>
+01  009 | la  deidad,  los  privó  de  la  luz  del  regreso.  Principio <br>
 01  010  da  a  contar  donde  quieras,  ¡oh  diosa  nacida  de  Zeus!  10 <br>
 01  011  Cuantos  antes  habían  esquivado  la  abrupta  ruina, <br>
 01  012  en  sus  casas  estaban  a  salvo  del  mar  y  la  guerra; <br>
