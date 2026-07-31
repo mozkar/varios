@@ -27,450 +27,893 @@
 
 
 01  001  Musa,  dime  del  hábil  varón  que  en  su  largo  extravio
-01  002  tras  haber  arrasado  el  alcázar  sagrado  de  Troya, 
-01  003  conoció  las  ciudades  y  el  genio  de  innúmeras  gentes. 
-01  004  Muchos  males  pasó  por  las  rutas  marinas  luchando 
-01  005  por  sí  mismo  y  su  vida  y  la  vuelta  al  hogar  de  sus  hombres, 
-01  006  pero  a  éstos  no  pudo  salvarlos  con  todo  su  empeño, 
-01  007  que  en  las  propias  locuras  hallaron  la  muerte.  ¡Insensatos! 
-01  008  Devoraron  las  vacas  del  Sol  Hiperión  e,  irritada 
-01  009  la  deidad,  los  privó  de  la  luz  del  regreso.  Principio 
-01  010  da  a  contar  donde  quieras,  ¡oh  diosa  nacida  de  Zeus!  10 
-01  011  Cuantos  antes  habían  esquivado  la  abrupta  ruina, 
-01  012  en  sus  casas  estaban  a  salvo  del  mar  y  la  guerra; 
-01  013  sólo  a  él,  que  añoraba  en  dolor  su  mujer  y  sus  lares, 
-01  014  reteníale  la  augusta  Calipso,  divina  entre  diosas, 
-01  015  en  sus  cóncavas  grutas,  ansiosa  de  hacerlo  su  esposo.  15 
-01  016  Vino  al  cabo,  al  rodar  de  los  años,  aquel  en  que  habían 
-01  017  decretado  los  dioses  que  el  héroe  volviese  a  sus  casas 
-01  018  en  las  tierras  de  Itaca.  En  vano  seguía  con  sus  penas 
-01  019  y  sin  ver  a  los  suyos.  Dolidas  las  otras  deidades, 
-01  020  disentía  Posidón  de  continuo,  enconado  en  su  ira  20 
-01  021  contra  Ulises  divino,  que  erraba  de  vuelta  a  su  patria. 
-01  022  Mas,  atento  a  grandiosa  hecatombe  de  toros  y  cabras, 
-01  023  embargaban  al  dios  esta  vez  los  lejanos  etiopes, 
-01  024  que  poseen  los  fines  del  mundo  formando  dos  pueblos, 
-01  025  el  del  lado  en  que  nace  Hiperión  y  el  del  lado  en  que  muere. 
-01  026  Allá  estaba  sentado  gozando  el  festín  y  los  otros 
-01  027  entretanto  reuníanse  en  las  casas  de  Zeus  el  Olimpio. 
-01  028  Comenzó  por  hablarles  el  padre  de  dioses  y  hombres: 
-01  029  se  acordaba  en  su  mente  de  Egisto,  el  varón  intachable 
-01  030  al  que  Orestes,  lamoso  en  el  mundo,  quitara  la  vida, 
-01  031  y  con  este  recuerdo  les  dijo  a  los  dioses  eternos: 
-01  032  «Es  de  ver  cómo  inculpan  los  hombres  sin  tregua  a  los dioses 
-01  033  achacándonos  todos  sus  males.  Y  son  ellos  mismos 
-01  034  los  que  traen  por  sus  propias  locuras  su  exceso  de  penas. 
-01  035  Así  Egisto,  violando  el  destino,  casó  con  la  esposa 
-01  036  del  Atrida  y  le  dio  muerte  a  él  cuando  a  casa  volvía. 
-01  037  No  accedió  a  prevenir  su  desgracia,  que  bien  le  ordenamos 
-01  038  enviándole  a  Hermes,  el  gran  celador  Argifonte, 
-01  039  desistir  de  esa  muerte  y  su  asedio  a  la.  reina,  pues  ello 
-01  040  le  atraería  la  venganza  por  mano  de  Orestes  Atrida 
-01  041  cuando  fuese  en  edad  y  añorase  la  tierra  paterna. 
-01  042  Pero  Hermes  no  pudo  cambiar  las  entrañas  de  Egisto, 
-01  043  aun  queriéndole  bien,  y  él  pagó  de  una  vez  sus  maldades». 
-01  044  Atenea,  la  diosa  ojizarca,  repúsole  entonces: 
-01  045  «Padre  nuestro  Cronión,  soberano  entre  todos  los  reyes, 
-01  046  bien  de  cierto  que  él  yace  abatido  por  justa  ruina 
-01  047  —  ¡que  lo  mismo  perezca  quienquiera  que  imite  su ejemplo! — , 
-01  048  pero  a  mí  el  corazón  se  me  parte  pensando  en  Ulises, 
-01  049  infeliz,  que  hace  tanto  padece  de  miles  trabajos, 
-01  050  alejado  de  todos  los  suyos  y  preso  en  la  isla 
-01  051  qué  circundan  las  olas  allá  en  la  mitad  del  océano. 
-01  052  En  sus  frondas  habita  la  diosa  nacida  de  Atlante, 
-01  053  el  astuto  malvado  que  intuye  los  senos  marinos 
-01  054  y  vigila  las  largas  columnas,  sustento  del  cielo. 
-01  055  Ella  es  quien  allí  le  retiene  penando  y  lloroso  55 
-01  056  y  lo  adula  sin  fin  con  palabras  sutiles  de  halago 
-01  057  por  que  olvide  a  su  Itaca.  En  vano,  que  Ulises  en  ansias 
-01  058  de  mirar  cómo  el  humo  se  eleva  del  suelo  paterno 
-01  059  prefiriera  morir.  ¿No  conmueven,  Olimpio,  tu  pecho 
-01  060  tales  cosas?  ¿Quizás  es  que  Ulises  allá  en  la  llanura  60 
-01  061  de  Ilión  y  su  campo  naval  omitió  sacrificios, 
-01  062  no  hizo  ofrenda  en  tu  honor?  ¿Cómo  así  le  aborreces, oh  Zeus?» 
-01  063  Contestando  a  su  vez  dijo  Zeus,  que  agrupa  las  nubes: 
-01  064  «¿Qué  palabra,  hija  mía,  escapó  del  vallar  de  tus  dientes? 
-01  065  ¿Por  ventura  podré  yo  olvidarme  de  Ulises  divino,  65 
-01  066  del  varón  sin  igual  por  su  ingenio  y  también  por  los  dones 
-01  067  que  ofrendó  a  los  eternos,  señores  del  cielo  anchuroso? 
-01  068  No  en  verdad:  Posidón,  batidor  de  la  tierra,  es  quien  sigue 
-01  069  enconado  por  mor  del  ciclope,  del  gran  Polifemo 
-01  070  al  que  Ulises  cegó  siendo  él  el  mayor  por  su  fuerza  70 
-01  071  entre  aquellos  gigantes:  pariólo  la  ninfa  Toosa, 
-01  072  la  nacida  de  Forcis,  ministro  del  mar  infecundo, 
-01  073  que  amorosa  se  dio  a  Posidón  en  las  cóncavas  grutas. 
-01  074  Desde  entonces  el  dios,  respetándole  sólo  la  vida, 
-01  075  fuerza  a  Ulises  a  errar  alejado  del  suelo  paterno.  75 
-01  076  Pero,  ¡ea!,  tratemos  nosotros  de  acuerdo  su  vuelta 
-01  077  y  que  el  héroe  regrese  a  su  hogar;  Posidón  por  su  parte 
-01  078  cederá  en  sus  enconos,  pues  nada  podrá  en  contra  nuestra 
-01  079  ni  luchar  solo  él  contra  todos  los  dioses  eternos.» 
-01  080  Contestando  a  su  vez  dijo  Atena,  la  diosa  ojizarca:  80 
-01  081  « ¡Padre  nuestro  Cronión,  soberano  entre  todos  los reyes! 
-01  082  Si  de  cierto  los  dioses  de  vida  feliz  determinan 
-01  083  que  regrese  a  sus  casas  Ulises,  el  rico  en  ingenios, 
-01  084  enviemos  a  Hermes,  el  guía  luminoso:  que  vaya 
-01  085  al  islote  de  Ogigia  y  en  él  sin  demora  transmita 
-01  086  a  la  ninfa  de  hermosos  cabellos  el  firme  decreto 
-01  087  de  la  vuelta  del  héroe  sufrido  de  entrañas.  Yo  misma 
-01  088  iré  en  tanto  a  las  tierras  de  Itaca;  allí  de  su  hijo 
-01  089  en  e:l  pecho  pondré  diligencia  y  valor  por  que  llame 
-01  090  en  el  ágora  a  junta  a  los  dáñaos  crinados  y  en  ella 
-01  091  haga  frente  a  los  muchos  galanes  que  matan  sin  duelo 
-01  092  :sus  ovejas  y  bueyes  rollizos  de  pasos  de  rueda; 
-01  093  le  haré  ir  hasta  Pilo  arenosa  y  Esparta  a  que  trate 
-01  094  de  saber  del  regreso  del  padre  querido  y  consiga 
-01  095  para  él  mismo  también  favorable  renombre  en  las  gentes.» 
-01  096  diciendo  ligóse  a  los  pies  las  hermosas  sandalias 
-01  097  inmortales,  doradas,  que  suelen  llevarla  por  cima 
-01  098  de  las  aguas  y  tierras  sin  fin  con  los  soplos  del  viento. 
-01  099  Asió  luego  la  lanza  robusta  con  punta  de  bronce, 
-01  100  fuerte,  grande,  pesada:  con  ella  a  los  héroes  por  filas 
-01  101  desbarata  en  su  furia  la  diosa  del  padre  terrible. 
-01  102  De  un  gran  salto  dejando  las  cumbres  Olimpias  posóse 
-01  103  en  la  tierra  itaquesa,  de  frente  a  las  puertas  de  Ulises 
-01  104  y  al  umbral  de  su  casa,  empuñando  1a.  lanza  broncínea 
-01  105  y  en  figura  de  un  huésped,  de  Mentes,  señor  de  los  tafios. 
-01  106  Al  momento  observó  a  los  altivos  galanes:  estaban 
-01  107  en  el  patio  gozando  en  jugar  a  las  suertes  y  echados 
-01  108  sobre  pieles  de  bueyes  que  habían  inmolado  ellos  mismos. 
-01  109  Sus  heraldos  y  activos  sirvientes  hacíanles  los  unos 
-01  110  en  cráteras  la  mezcla  del  agua  y  del  vino,  los  otros 
-01  111  a  su  vez  con  porosas  esponjas  limpiaban  las  mesas 
-01  112  y  acercábanlas  luego  o  trinchaban  la  carne  abundante. 
-01  113  El  divino  Telémaco  viola  el  primero;  se  hallaba 
-01  114  recostado  entre  aquellos  galanes  penando  en  su  alma 
-01  115  y  soñando  entre  sí  con  el  héroe  su  padre,  si  acaso 
-01  116  pareciese  de  pronto  y  sembrase  el  espanto  entre  ellos, 
-01  117  recobrara  su  honor  y  rigiera  de  nuevo  su  casa. 
-01  118  Tal  pensando  en  mitad  de  esos  hombres,  fijóse  en  Atena 
-01  119  y  salió  decidido  al  umbral;  le  dolía  en  las  entrañas 
-01  120  que  algún  huésped  quedase  a  la  puerta.  Llegando  a  su  lado, 
-01  121  tras  tenderle  la  mano  cogióle  la  lanza  de  bronce 
-01  122  y,  dejándose  oír,  dirigióle  palabras  aladas: 
-01  123  «Forastero,  salud,  bien  tratado  serás,  pero  antes 
-01  124  de  explicar  a  qué  vienes  habrás  de  saciar  tu  apetito.» 
-01  125  Tal  diciendo  marchó  por  delante,  siguióle  Atenea, 
-01  126  penetraron  los  dos  bajo  el  techo  del  alto  palacio 
-01  127  y,  llevando  él  la  lanza,  la  puso  en  pulido  astillero 
-01  128  al  arrimo  de  erguido  pilar  donde  alzaban  sus  puntas 
-01  129  muchas  lanzas  también  del  sufrido  de  entrañas  Ulises. 
-01  130 130  Sentó  luego  a  la  diosa  en  un  bello  sillón  extendiendo 
-01  131 sobre  él  un  buen  paño;  a  sus  plantas  había  un  escañuelo. 
-01  132 Él,  tomando  una  silla,  se  puso  a  su  lado  bien  lejos 
-01  133  de  los  otros,  no  diese  a  su  huésped  enojo  el  tumulto 
-01  134  y  le  agriase  el  manjar  si  quedaba  entre  aquellos  procaces 
-01  135  y  también  por  poder  preguntarle  del  padre  en  ausencia. 
-01  136  Una  sierva  a  este  punto  llegó  con  un  jarro  de  oro, 
-01  137  en  sus  manos  el  agua  vertió  sobre  fuente  de  plata 
-01  138  y  le  puso  delante  una  mesa  pulida;  la  honrada 
-01  139  despensera,  trayéndole  el  pan,  colocólo  a  su  lado 
-01  140  y  otros  muchos  manjares  sirvió  que  en  reserva  tenía. 
-01  141  Asomó  el  trinchador,  bien  en  alto  sus  platos  de  carne 
-01  142  de  distintas  especies,  y  puso  unas  copas  de  oro 
-01  143  que  el  heraldo  una  vez  y  otra  vez  les  llenaba  de  vino. 
-01  144  Pero  en  esto  llegaron  los  fieros  galanes  y  en  fila 
-01  145  por  sillones  y  sillas  se  fueron  sentando;  vertieron 
-01  146  los  heraldos  el  agua  en  sus  manos  en  tanto  las  siervas 
-01  147  les  ponían  en  los  cestos  montones  de  pan  y  los  mozos 
-01  148  de  otra  parte  venían  a  colmar  de  licor  las  cráteras. 
-01  149  A  los  ricos  manjares  así  preparados  tendieron 
-01  150  los  galanes  sus  manos  y  ya  que  quedaron  su  hambre 
-01  151  y  su  sed  satisfechas  tornaron  su  mente  a  otras  cosas, 
-01  152  a  la  danza  y  el  canto  que  son  la  sazón  del  banquete. 
-01  153  Hermosísima  cítara  entonces  le  puso  un  heraldo 
-01  154  en  las  manos  a  Femio,  al  que  mal  de  su  grado  tenían 
-01  155  de  cantor;  él  las  cuerdas  pulsó  y  entonó  un  bello  canto; 
-01  156  mas  Telémaco  en  esto,  volviéndose  a  Atena  ojizarca, 
-01  157  por  que  no  se  enterasen  los  otros  le  dijo  al  oído: 
-01  158  «¿Llevarás,  oh  mi  huésped,  a  mal  lo  que  voy  a  decirte? 
-01  159  Estos  hombres  se  cuidan  tan  sólo  de  cítara  y  canto 
-01  160  con  razón,  pues  que  comen  sin  costo  de  ajena  despensa; 
-01  161  entretanto  la  lluvia  repudre  en  la  tierra  los  huesos 
-01  162  descarnados  de  un  héroe  o  el  mar  los  arrastra  en  sus  olas; 
-01  163  mas  si  en  Itaca  un  día  le  vieran  llegar  de  regreso, 
-01  164  bien  de  cierto  que  todos  quisieran  tener  al  instante 
-01  165  más  seguros  los  pies,  no  ya  oro  ni  ricos  vestidos. 
-01  166  Pero  aquél  sucumbió  a  la  desgracia  sin  duda  y  no  hay 
-01  167  de  tal  pena  consuelo,  por  más  que  algún  hombre  nos  diga 
-01  168  que  tendrá  de  volver:  ha  perdido  la  luz  del  regreso. 
-01  169  Pero,  ¡ea!,  tú  dime  y  explica  esto  otro.  ¿Quién  eres? 
-01  170  no  ¿De  qué  gente?  ¿Cuál  es  tu  ciudad?  ¿Quiénes  fueron  tus padres? 
-01  171  ¿En  qué  barco  has  llegado  hasta  aquí?  ¿Cómo  fue  que  sus hombres 
-01  172  te  trajeron  a  Itaca?  ¿En  dónde  decíanse  nacidos? 
-01  173  Por  tu  pie,  bien  se  deja  pensar,  no  has  venido  a  esta  tierra; 
-01  174  dime  en  todo  verdad,  porque  bien  saber  quiero  si  es  ésta 
-01  175  tu  primera  arribada  o  mi  padre  te  tuvo  por  huésped: 
-01  176  muchos  hombres  venían  aquí  a  nuestra  casa  y  él  mismo 
-01  177  en  su  tiempo  gozaba  en  tratar  muchedumbre  de  gente.» 
-01  178  Contestándole  dijo  Atenea,  la  diosa  ojizarca: 
-01  179  «Pues  yo  voy,  extranjero,  a  explicártelo  todo  fielmente. 
-01  180  Me  proclamo  nacido  de  Anquíalo  el  discreto:  soy  Mentes, 
-01  181  el  señor  de  los  tafios,  nación  de  gozosos  remeros; 
-01  182  con  mi  barco  y  mi  gente  he  llegado  hasta  aquí  navegando 
-01  183  por  las  olas  vinosas  con  rumbo  hacia  tierras  extrañas, 
-01  184  hacia  Témesa  en  busca  de  bronce  llevándoles  hierro 
-01  185  reluciente.  Varado  allá  lejos  quedó  mi  navio 
-01  186  en  el  puerto  de  Ritro  al  socaire  del  Neyo  selvoso. 
-01  187  Bien  por  huéspedes  uno  de  otro  podemos  tenernos 
-01  188  de  familia  y  de  antiguo:  si  no,  que  lo  diga  Laertes 
-01  189  el  anciano,  si  a  verle  te  llegas,  pues  cuentan  que  él  nunca 
-01  190  viene  ya  a  la  ciudad,  sino  pasa  la  vida  en  el  campo 
-01  191  con  sus  penas,  cuidado  no  más  que  por  vieja  sirvienta 
-01  192  que  le  da  de  comer  y  beber  cuando  toma  sus  miembros 
-01  193  la  fatiga  de  tanto  subir  por  su  viña  del  monte. 
-01  194  Pero  yo  vine  acá  por  decirse  que  había  ya  tu  padre 
-01  195  regresado  al  país,  siendo  así  que  han  cortado  los  dioses 
-01  196  su  camino:  verdad  es  que  Ulises  no  ha  muerto  en  la  tierra, 
-01  197  antes  bien,  está  preso  con  vida  en  el  ancho  océano, 
-01  198  pues  en  isla  que  cercan  las  olas  lo  guardan  infames 
-01  199  y  selváticas  gentes  forzando  sus  vivos  deseos. 
-01  200  Yo  no  obstante  te  voy  a  anunciar  todo  aquello  que  inspiran 
-01  201  a  mi  mente  los  dioses  y  pienso  tendrá  cumplimiento 
-01  202  aun  sin  ser  adivino  ni  experto  en  presagios:  no  es  mucho 
-01  203  lo  que  ya  separado  estará  de  su  patria  querida, 
-01  204  aunque  lleguen  a  atarle  con  férrea  cadena,  que  él  piensa 
-01  205  y  medita  el  regreso,  pues  siempre  fue  ducho  en  ardides. 
-01  206  Pero,  ¡ea!,  pon  mente  a  esto  otro  y  explica  fielmente: 
-01  207  ¿dices  tú,  tan  mayor,  que  eres  hijo  de  Ulises?  Mas  cierto, 
-01  208  tu  cabeza  es  la  misma  de  aquél  y  el  fulgor  de  tus  ojos; 
-01  209  muchas  veces  nos  vimos  en  tratos  recíprocos  antes 
-01  210  que  él  tomara  la  ruta  de  Ilión  en  los  combos  bajeles 
-01  211  arriesgándose  al  mar  con  los  otros  magnates  aqueos: 
-01  212  desde  entonces  ni  vi  más  a  Ulises  ni  Ulises  me  ha  visto.» 
-01  213  Y  el  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
-01  214  «Pues  yo  voy,  extranjero,  a  explicártelo  todo  fielmente. 
-01  215  De  él  nacido  me  dice  mi  madre,  mas  yo  por  mí  mismo 
-01  216  no  lo  puedo  saber:  ¿qué  mortal  reconoce  su  sangre? 
-01  217  Bien  quisiera  ser  hijo  de  un  padre  feliz  al  que  hallara 
-01  218  la  vejez  disfrutando  en  mitad  de  sus  propias  haciendas, 
-01  219  mas  mi  padre  es  el  más  desdichado  de  todos  los  hombres: 
-01  220  de  ese  tal  según  cuentan  nací,  ya  que  tú  me  preguntas.» 
-01  221  Contestando  a  su  vez  dijo  Atena,  la  diosa  ojizarca: 
-01  222  «No  dejaron  sin  gloria  los  dioses  la  estirpe  que  dices, 
-01  223  pues  Penélope  en  ti  tan  buen  hijo  alcanzó,  pero  ahora 
-01  224  saber  quiero  esto  otro  que  me  has  de  explicar puntualmente. 
-01  225  ¿Qué  festín  se  da  aquí?  ¿Para  qué  esta  reunión?  ¿Qué motivo 
-01  226  hubo  a  hacerla?  ¿Es  convite  o  banquete  de  bodas?  No  escote 
-01  227  ciertamente.  Insolencia  y  ultraje  parece  en  tus  salas 
-01  228  •tal  banquete  capaz  de  indignar  a  cualquiera  con  seso 
-01  229  que  llegando  hasta  aquí  contemplara  tamaño  descaro.». 
-01  230  El  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
-01  231  «Pues  así  de  estas  cosas,  mi  huésped,  preguntas  e inquieres, 
-01  232  te  diré  que  esta  casa  fue  en  tiempos  feliz  e  intachable 
-01  233  mientras  ese  que  sabes  vivió  en  el  país;  mas  ahora 
-01  234  otra  cosa  tramando  ruinas  quisieron  los  dioses, 
-01  235  que  han  borrado  su  fama  en  el  mundo  cual  nunca  lo hicieron 
-01  236  con  ningún  otro  hombre:  no  fuera  tan  grande  mi  pena 
-01  237  si  él  cayera  en  Ilion  en  mitad  de  sus  tropas  o  en  brazos 
-01  238  de  los  suyos  después  de  acabada  la  guerra,  que  entonces 
-01  239  los  argivos  en  pleno  le  hubieran  alzado  una  tumba 
-01  240  y  un  renombre  glorioso  le  hubiera  quedado  a  este  hijo. 
-01  241  Mas  al  cabo  los  vientos  furiosos  lo  han  hecho  en  la  sombra 
-01  242  su  botín;  sin  ser  visto  ni  oído  se  fue,  me  ha  dejado 
-01  243  pesadumbres  y  llanto  y  no  lloro  por  él  solamente, 
-01  244  que  otros  duelos  funestos  vinieron  a  darme  los  dioses: 
-01  245  cuantos  proceres  tienen  ahora  poder  en  las  islas 
-01  246  de  Duliquio,  de  Sama  y  de  Zante,  la  rica  de  bosques, 
-01  247  y  los  otros  que  en  Itaca  abrupta  detentan  el  mando 
-01  248  con  mi  madre  pretenden  casar  y  disipan  mi  hacienda. 
-01  249  Ella,  en  tanto,  ni  puede  negarse  a  una  boda  que  odia 
-01  250  ni  al  abuso  dar  fin  y  ellos  comen,  devoran  mi  casa 
-01  251  y  muy  pronto  también  me  tendrán  devorado  a  mí  mismo.» 
-01  252  Enojada,  a  su  vez,  contestábale  Palas  Atena: 
-01  253  «Es  de  ver  cuánta  falta  te  hace  ese  Ulises  ausente 
-01  254  que  a  estos  hombres  osados  pusiera  las  manos  encima. 
-01  255  ¡Ah,  si  ahora,  asomando  de  pronto  al  umbral  del  palacio 
-01  256  detuviérase  en  él  con  el  casco,  el  escudo  y  las  picas 
-01  257  cual  yo  mismo  primero  en  mi  casa  llegué  a  conocerlo 
-01  258  disfrutando  y  bebiendo  a  la  vuelta  de  Éfira,  en  donde 
-01  259  hospedado  le  había  la  mansión  del  mermérida  lio! 
-01  260  Por  allá  vino  Ulises  también  en  su  rápida  nave 
-01  261  a  pedir  un  veneno  mortal  para  el  cuerpo  del  hombre 
-01  262  con  que  untar  sus  broncíneas  saetas;  mas  lio  negóse 
-01  263  a  atender  su  demanda  por  miedo  a  los  dioses  eternos 
-01  264  y  en  su  amor  sin  medida  entregóselo  en  cambio  mi  padre. 
-01  265  En  tal  guisa  debiera  él  aquí  presentarse  a  estos  mozos; 
-01  266  bien  aprisa  acabara  su  vida  y  se  aguaran  sus  bodas. 
-01  267  Ello  todo,  no  obstante,  en  las  haldas  está  de  los  dioses, 
-01  268  que  haya  o  no  de  volver  al  hogar  y  cumplir  la  venganza 
-01  269  en  sus  propios  palacios;  tú,  en  cambio,  forzoso  es  que  pienses 
-01  270  en  el  modo  de  echar  de  esta  casa  a  esas  gentes.  Veamos, 
-01  271  tus  sentidos  aviva  y  se  graben  en  ti  mis  palabras: 
-01  272  llama  a  junta  mañana  en  la  plaza  a  los  nobles  aqueos 
-01  273  y  ante  todos  explica  el  asunto;  que  sean  las  deidades 
-01  274  tus  testigos  y  ordena  a  esos  mozos  marchar  a  sus  casas. 
-01  275  Si  tu  madre  quisiere  casarse,  que  vuelva  de  nuevo 
-01  276  a  habitar  la  mansión  de  su  padre  opulento  y,  en  tanto, 
-01  277  los  galanes  preparen  la  boda  y  apresten  los  dones 
-01  278  cuantos  cumple  ofrecer  por  la  hija  querida  a  los  suyos. 
-01  279  Y  a  ti  mismo  un  consejo  prudente  si  quieres  seguirlo: 
-01  280  ve  y  escoge  la  nave  mejor  y  con  veinte  remeros 
-01  281  sal  e  intenta  saber  de  tu  padre  perdido  hace  tanto, 
-01  282  ya  te  venga  a  informar  algún  hombre,  ya  escuches  la  fama 
-01  283  que  venida  de  Zeus  esparce  su  voz  por  el  mundo; 
-01  284  marcha  a  Pilo  primero  e  inquiere  de  Néstor  divino; 
-01  285  desde  Pilo  ve  a  Esparta  y  pregúntale  allí  a  Menelao, 
-01  286  que  el  postrero  volvió  de  los  dáñaos  vestidos  de  bronce; 
-01  287  y,  si  nuevas  te  dan  de  que  vive  y  regresa  tu  padre, 
-01  288  por  muy  grande  que  sea  tu  aflicción  persevera  hasta  un  año, 
-01  289  mas,  si  sabes  que  ha  muerto  y  no  cuenta  en  los  vivos,  retorna 
-01  290  sin  mayor  dilación  a  la  patria  querida  y  levanta 
-01  291  en  su  honor  un  gran  túmulo,  ofrécele  fúnebres  dones, 
-01  292  cuantos  bien  te  parezca,  y  entrega  tu  madre  a  otro  esposo. 
-01  293  Una  vez  que  lo  hagas  y  acabes  aquello  que  digo 
-01  294  te  pondrás  a  pensar  con  la  mente  y  el  alma  en  el  modo 
-01  295  de  matar  a  esos  hombres  aquí  en  tu  palacio,  ya  sea 
-01  296  con  engaños,  ya  en  lucha  a  la  luz,  pues  en  nada  te  cuadra 
-01  297  que  te  muestres  aún  niño:  eres  ya  muy  mayor  para  ello. 
-01  298  ¿Por  ventura  no  escuchas  la  fama  ganada  en  el  mundo 
-01  299  por  Orestes  divino  vengando  la  muerte  paterna 
-01  300  en  Egisto  falaz,  matador  de  su  padre  glorioso? 
-01  301  Tú,  querido,  también,  pues  te  veo  tan  alto  y  gallardo, 
-01  302  ten  valor  y  que  alaben  tus  hechos  los  hombres  futuros; 
-01  303  mas  yo  debo  bajar,  que  ya  es  hora,  a  la  rápida  nave 
-01  304  y  buscar  a  mi  gente  que  ansiosa  me  espera;  tú  sigue 
-01  305  vigilándolo  todo  y  atiende  a  cumplir  mis  consejos.» 
-01  306  El  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
-01  307  «Forastero,  has  hablado  en  verdad  con  afecto entrañable, 
-01  308  como  un  padre  a  su  hijo:  no  habré  de  olvidar  tus  palabras. 
-01  309  Pero,  ¡ea!,  domina  tus  prisas  y  quédate  un  poco, 
-01  310  que  después  de  bañarte  y  haber  esparcido  tu  mente 
-01  311  puedas  ir  a  tu  nave  gozoso  con  un  buen  regalo 
-01  312  de  gran  precio  que  yo  he  de  entregarte:  ha  de  ser  una alhaja 
-01  313  como  suele  a  los  huéspedes  dar  algún  huésped  amigo.» 
-01  314  Contestando  a  su  vez  dijo  Atena,  la  diosa  ojizarca: 
-01  315  «No  detengas  mi  marcha,  que  ya  se  me  tarda  el  camino, 
-01  316  y  ese  don  que  tu  afecto  te  impulsa  a  ofrecerme  se  quede 
-01  317  para  el  tiempo  en  que  pase  de  vuelta  a  mi  patria;  y entonces 
-01  318  tenlo  bien  escogido,  que  no  quedará  sin  retorno.» 
-01  319  Tal  diciendo  marchóse  de  allá  la  ojizarca  Atenea 
-01  320  como  un  ave  que  escapa  a  la  vista;  dejóle  en  el  alma 
-01  321  fortaleza  y  valor  y  un  recuerdo  más  vivo  que  antes 
-01  322  de  su  padre  querido;  notándolo  luego  en  su  mente 
-01  323  le  tomó  el  estupor  y  llegó  a  conocerla  por  diosa. 
-01  324  Mas  bien  pronto  el  divino  varón  se  reunió  con  los  otros. 
-01  325  Un  aedo  famoso  cantaba  en  mitad  y  sentados 
-01  326  los  demás  en  silencio  le  oían;  narraba  el  regreso 
-01  327  desastroso  de  Ilion  que  a  los  dáñaos  impuso  Atenea. 
-01  328  En  el  piso  de  arriba  fue  a  herir  aquel  canto  divino 
-01  329  a  la  hija  de  Icario,  discreta  Penélope:  al  punto 
-01  330  descendió  de  su  estancia  tomando  la  larga  escalera, 
-01  331  mas  no  sola,  seguíanla  de  cerca  dos  siervas;  y  cuando 
-01  332  la  mujer  entre  todas  divina  avistó  a  sus  galanes, 
-01  333  a  la  puerta  quedó  del  salón  bien  labrado,  ajustóse 
-01  334  el  espléndido  velo,  cubrió  sus  mejillas,  las  fieles 
-01  335  servidoras  pusiéronse  a  un  lado  y  a  otro  y,  dejando 
-01  336  que  corriese  su  llanto,  le  dijo  al  aedo  divino: 
-01  337  «Otras  muchas  leyendas,  ¡oh  Femio!,  conoces  de  cierto 
-01  338  de  guerreros  y  dioses,  que  hechizan  las  mentes  humanas 
-01  339  al  cantar  del  aedo;  entona  una  de  ellas  y  beban 
-01  340  en  silencio  su  vino  esos  hombres,  mas  corta  ese  canto 
-01  341  desdichado;  royéndome  va  el  corazón  en  el  pecho, 
-01  342  pues  en  mí  como  en  nadie  se  ceba  un  dolor  sin  olvido, 
-01  343  que  tal  es  el  esposo  que  añoro  en  perpetuo  recuerdo, 
-01  344  cuya  fama  ha  llenado  la  Hélade  y  tierras  de  Argos.» 
-01  345  Y  el  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
-01  346  «¿Por  qué,  oh  madre,  le  impides  al  hábil  aedo  que  trate 
-01  347  de  agradar  como  quiera  su  genio  le  inspire?  La  culpa 
-01  348  no  la  tiene  el  cantor,  sino  Zeus,  que  reparte  sus  dones 
-01  349  y  los  da  a  cada  cual  de  los  hombres  según  su  talante. 
-01  350  No  llevemos  a  mal  que  éste  diga  el  funesto  destino 
-01  351  de  los  dáñaos;  la  gente  celebra  entre  todos  los  cantos 
-01  352  el  postrero,  el  más  nuevo  que  viene  a  halagar  sus  oídos. 
-01  353  A  escucharlo  se  avengan  tu  mente  y  tu  alma,  que  Ulises 
-01  354  no  fue  solo  en  perder  allá  en  Troya  la  luz  del  regreso; 
-01  355  muchos  otros  varones  cayeron  también;  mas  tú  vete 
-01  356  a  tus  salas  de  nuevo  y  atiende  a  tus  propias  labores, 
-01  357  al  telar  y  a  la  rueca,  y  ordena,  asimismo,  a  tus  siervas 
-01  358  aplicarse  al  trabajo;  el  hablar  les  compete  a  los  hombres 
-01  359  y  entre  todos  a  mí,  porque  tengo  el  poder  en  la  casa.» 
-01  360  Admirada  la  madre  tornóse  y  marchó  a  su  aposento 
-01  361  con  el  recio  discurso  del  hijo  grabado  en  el  alma. 
-01  362  A  los  altos  subió  de  sus  siervas  seguida  y  al  llanto 
-01  363  se  entregó  por  Ulises,  su  esposo.  Por  fin  dulce  sueño 
-01  364  en  sus  párpados  vino  a  verter  la  ojizarca  Atenea. 
-01  365  Los  galanes  gritaban  allá  por  la  sala  sombría. 
-01  366  Todos  ellos  ansiaban  yacer  con  Penélope;  entonces 
-01  367  el  discreto  Telémaco  hablóles  así:  «Pretendientes 
-01  368  que  con  esa  insolente  altivez  asediáis  a  mi  madre, 
-01  369  del  banquete  gocemos  en  paz  y  que  tal  griterío 
-01  370  cese  al  punto,  que  es  dulce  escuchar  a  un  cantor  como  éste, 
-01  371  semejante  a  su  voz  a  las  mismas  deidades.  Mañana, 
-01  372  con  la  luz  de  la  aurora,  saldremos  al  ágora  todos 
-01  373  y  bien  claro  os  diré  cuanto  tengo  en  el  ánimo.  Habréis 
-01  374  de  dejar  estas  salas:  id,  pues,  preparad  otras  mesas 
-01  375  y  comed  de  lo  vuestro  invitándoos  por  turno;  no  obstante, 
-01  376  si  pensáis  que  es  mejor  y  más  grato  seguir  devorando 
-01  377  la  fortuna  de  un  solo  varón  sin  gastar  de  lo  propio, 
-01  378  devoradla,  mas  yo  he  de  clamar  a  los  dioses  eternos 
-01  379  por  si  Zeus  me  concede  el  castigo  de  tales  desmanes 
-01  380  y  algún  día  en  mi  mismo  palacio  morís  sin  venganza.» 
-01  381  Tal  les  dijo  Telémaco  y  ellos,  mordiendo  sus  labios, 
-01  382  se  admiraban  del  nuevo  valor  que  mostraba  al  hablarles. 
-01  383  Pero  Antínoo,  nacido  de  Eupites,  al  fin  replicóle: 
-01  384  «De  seguro,  Telémaco,  inspiran  los  dioses  palabras 
-01  385  tan  ufanas  y  te  hacen  hablar  con  tamaña  osadía, 
-01  386  mas  que  el  hijo  de  Crono  no  quiera  otorgarte  en  la  tierra 
-01  387  itaquesa  que  bañan  los  mares  el  reino  paterno.» 
-01  388  Y  el  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
-01  389  «Aunque  a  mal  me  lo  lleves,  Antínoo,  tendré  que  decirte 
-01  390  que,  si  Zeus  me  lo  da,  tomaré  de  buen  grado  ese  reino. 
-01  391  ¿O  es  que  piensas  tal  vez  que  reinar  es  la  gran  desventura 
-01  392  de  los  hombres?  No  así,  bien  de  cierto,  que  el  rey  por  de pronto 
-01  393  tiene  bien  abastada  su  casa  y  sin  par  es  su  honra. 
-01  394  Pero  hay  otros  reyes  en  Itaca,  jóvenes  unos 
-01  395  y  mayores  los  otros,  ya  son  multitud:  que  se  quede 
-01  396  uno  de  ellos  al  frente  del  reino,  pues  ha  muerto  Ulises; 
-01  397  yo  seré  soberano  en  mi  casa,  mandando  en  los  siervos 
-01  398  que  ganó  para  mí  en  los  combates  Ulises  divino.» 
-01  399  Mas  el  hijo  de  Pólibo,  Eurímaco,  habló  de  este  modo: 
-01  400  «Reservado  en  sus  haldas,  Telémaco,  tienen  los  dioses 
-01  401  el  secreto  del  dánao  que  habrá  de  reinar  en  la  isla; 
-01  402  mas  bien  puedes  tu  hacienda  guardar  y  mandar  en  tu  casa, 
-01  403  que  no  habrá  de  venir  quien  por  fuerza  te  quite  los  bienes 
-01  404  mientras  Itaca  tenga  habitantes.  Quisiera  tan  sólo 
-01  405  que  me  hablases,  ¡oh  príncipe! ,  acerca  de  aquel  forastero. 
-01  406  ¿De  qué  tierra  llegó?  ¿Qué  país  por  su  patria  proclama? 
-01  407  ¿Dónde  tiene  el  linaje  y  los  campos  paternos?  ¿Noticia 
-01  408  te  ha  traído  tal  vez  de  tu  padre  en  ausencia  o  acaso 
-01  409  ha  venido  buscando  su  propio  negocio?  ¡Qué  impulso 
-01  410  tan  vehemente  al  marcharse  de  aquí!  No  ha  querido quedarse 
-01  411  ni  tratar  con  nosotros,  mas  nada  hay  ruin  en  su  aspecto.» 
-01  412  El  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
-01  413  «No  es  posible,  ¡oh  Eurímaco! ,  ya  de  mi  padre el regreso; 
-01  414  yo  ni  creo  las  noticias  que  vienen  de  un  lado  o  de  otro 
-01  415  ni  hago  caso  de  agüeros  las  veces  que  llama  mi  madre 
-01  416  a  sus  salas  a  algún  adivino  y  allá  le  interroga. 
-01  417  Ese  hombre  es  mi  huésped  paterno,  procede  de  Tafos, 
-01  418  se  proclama  nacido  de  Anquíalo  el  discreto  y  es  Mentes, 
-01  419  el  señor  de  los  tafios,  nación  de  gozosos  remeros.» 
-01  420  Tal  Telémaco  habló,  mas  ya  había  conocido  a  la  diosa: 
-01  421  ellos,  dándose  al  gusto  del  canto  y  el  baile,  siguieron 
-01  422  divirtiéndose  allí  sin  parar  hasta  hacerse  de  noche. 
-01  423  Al  venir  las  tinieblas  estaban  aún  en  la  fiesta, 
-01  424  mas  vencidos  del  sueño  tornó  cada  cual  a  su  casa 
-01  425  y  Telémaco  fuese  también  al  lugar  del  palacio 
-01  426  donde  estaba  su  alcoba  labrada  en  seguro  recinto. 
-01  427  Allá  el  lecho  buscó  revolviendo  en  su  mente  mil  cosas. 
-01  428  Con  antorchas  delante  alumbraba  la  fiel  Euriclea, 
-01  429  engendrada  por  Ops  Pisenórida:  habíala  comprado, 
-01  430  cuando  aún  no  era  núbil,  Laertes  con  propios  dineros 
-01  431  entregando  por  ella  el  valor  de  diez  pares  de  bueyes. 
-01  432  Al  igual  de  su  esposa  la  honró  en  el  palacio,  mas  nunca 
-01  433  con  la  esclava  se  unió  por  temor  a  las  iras  de  aquélla. 
-01  434  Iba,  pues,  allí  dando  a  Telémaco  luz;  le  quería 
-01  435  cual  ninguna  otra  sierva  y  habíalo  tenido  en  su  guarda 
-01  436  siendo  niño.  La  puerta  él  abrió  del  labrado  aposento, 
-01  437  acercóse  a  su  lecho,  quitóse  la  bata  suave 
-01  438  y  en  los  brazos  la  echó  de  la  próvida  anciana.  Ésta  luego 
-01  439  la  alisó  con  cuidado  y,  plegando  la  prenda,  en  un  clavo 
-01  440  junto  al  lecho  de  finos  entalles  dejóla  colgada 
-01  441  y  sin  más  se  salió  de  la  alcoba,  tiró  de  la  puerta 
-01  442  con  la  anilla  de  plata  y  corrió  con  la  cuerda  el  cerrojo 
-01  443  mientras  él  en  la  noche,  cubierto  de  finas  zaleas, 
-01  444  meditando  el  viaje  quedó  de  que  Atena  le  hablara. 
 
+01  002  tras  haber  arrasado  el  alcázar  sagrado  de  Troya, 
+
+01  003  conoció  las  ciudades  y  el  genio  de  innúmeras  gentes. 
+
+01  004  Muchos  males  pasó  por  las  rutas  marinas  luchando 
+
+01  005  por  sí  mismo  y  su  vida  y  la  vuelta  al  hogar  de  sus  hombres, 
+
+01  006  pero  a  éstos  no  pudo  salvarlos  con  todo  su  empeño, 
+
+01  007  que  en  las  propias  locuras  hallaron  la  muerte.  ¡Insensatos! 
+
+01  008  Devoraron  las  vacas  del  Sol  Hiperión  e,  irritada 
+
+01  009  la  deidad,  los  privó  de  la  luz  del  regreso.  Principio 
+
+01  010  da  a  contar  donde  quieras,  ¡oh  diosa  nacida  de  Zeus!  10 
+
+01  011  Cuantos  antes  habían  esquivado  la  abrupta  ruina, 
+
+01  012  en  sus  casas  estaban  a  salvo  del  mar  y  la  guerra; 
+
+01  013  sólo  a  él,  que  añoraba  en  dolor  su  mujer  y  sus  lares, 
+
+01  014  reteníale  la  augusta  Calipso,  divina  entre  diosas, 
+
+01  015  en  sus  cóncavas  grutas,  ansiosa  de  hacerlo  su  esposo.  15 
+
+01  016  Vino  al  cabo,  al  rodar  de  los  años,  aquel  en  que  habían 
+
+01  017  decretado  los  dioses  que  el  héroe  volviese  a  sus  casas 
+
+01  018  en  las  tierras  de  Itaca.  En  vano  seguía  con  sus  penas 
+
+01  019  y  sin  ver  a  los  suyos.  Dolidas  las  otras  deidades, 
+
+01  020  disentía  Posidón  de  continuo,  enconado  en  su  ira  20 
+
+01  021  contra  Ulises  divino,  que  erraba  de  vuelta  a  su  patria. 
+
+01  022  Mas,  atento  a  grandiosa  hecatombe  de  toros  y  cabras, 
+
+01  023  embargaban  al  dios  esta  vez  los  lejanos  etiopes, 
+
+01  024  que  poseen  los  fines  del  mundo  formando  dos  pueblos, 
+
+01  025  el  del  lado  en  que  nace  Hiperión  y  el  del  lado  en  que  muere. 
+
+01  026  Allá  estaba  sentado  gozando  el  festín  y  los  otros 
+
+01  027  entretanto  reuníanse  en  las  casas  de  Zeus  el  Olimpio. 
+
+01  028  Comenzó  por  hablarles  el  padre  de  dioses  y  hombres: 
+
+01  029  se  acordaba  en  su  mente  de  Egisto,  el  varón  intachable 
+
+01  030  al  que  Orestes,  lamoso  en  el  mundo,  quitara  la  vida, 
+
+01  031  y  con  este  recuerdo  les  dijo  a  los  dioses  eternos: 
+
+01  032  «Es  de  ver  cómo  inculpan  los  hombres  sin  tregua  a  los dioses 
+
+01  033  achacándonos  todos  sus  males.  Y  son  ellos  mismos 
+
+01  034  los  que  traen  por  sus  propias  locuras  su  exceso  de  penas. 
+
+01  035  Así  Egisto,  violando  el  destino,  casó  con  la  esposa 
+
+01  036  del  Atrida  y  le  dio  muerte  a  él  cuando  a  casa  volvía. 
+
+01  037  No  accedió  a  prevenir  su  desgracia,  que  bien  le  ordenamos 
+
+01  038  enviándole  a  Hermes,  el  gran  celador  Argifonte, 
+
+01  039  desistir  de  esa  muerte  y  su  asedio  a  la.  reina,  pues  ello 
+
+01  040  le  atraería  la  venganza  por  mano  de  Orestes  Atrida 
+
+01  041  cuando  fuese  en  edad  y  añorase  la  tierra  paterna. 
+
+01  042  Pero  Hermes  no  pudo  cambiar  las  entrañas  de  Egisto, 
+
+01  043  aun  queriéndole  bien,  y  él  pagó  de  una  vez  sus  maldades». 
+
+01  044  Atenea,  la  diosa  ojizarca,  repúsole  entonces: 
+
+01  045  «Padre  nuestro  Cronión,  soberano  entre  todos  los  reyes, 
+
+01  046  bien  de  cierto  que  él  yace  abatido  por  justa  ruina 
+
+01  047  —  ¡que  lo  mismo  perezca  quienquiera  que  imite  su ejemplo! — , 
+
+01  048  pero  a  mí  el  corazón  se  me  parte  pensando  en  Ulises, 
+
+01  049  infeliz,  que  hace  tanto  padece  de  miles  trabajos, 
+
+01  050  alejado  de  todos  los  suyos  y  preso  en  la  isla 
+
+01  051  qué  circundan  las  olas  allá  en  la  mitad  del  océano. 
+
+01  052  En  sus  frondas  habita  la  diosa  nacida  de  Atlante, 
+
+01  053  el  astuto  malvado  que  intuye  los  senos  marinos 
+
+01  054  y  vigila  las  largas  columnas,  sustento  del  cielo. 
+
+01  055  Ella  es  quien  allí  le  retiene  penando  y  lloroso  55 
+
+01  056  y  lo  adula  sin  fin  con  palabras  sutiles  de  halago 
+
+01  057  por  que  olvide  a  su  Itaca.  En  vano,  que  Ulises  en  ansias 
+
+01  058  de  mirar  cómo  el  humo  se  eleva  del  suelo  paterno 
+
+01  059  prefiriera  morir.  ¿No  conmueven,  Olimpio,  tu  pecho 
+
+01  060  tales  cosas?  ¿Quizás  es  que  Ulises  allá  en  la  llanura  60 
+
+01  061  de  Ilión  y  su  campo  naval  omitió  sacrificios, 
+
+01  062  no  hizo  ofrenda  en  tu  honor?  ¿Cómo  así  le  aborreces, oh  Zeus?» 
+
+01  063  Contestando  a  su  vez  dijo  Zeus,  que  agrupa  las  nubes: 
+
+01  064  «¿Qué  palabra,  hija  mía,  escapó  del  vallar  de  tus  dientes? 
+
+01  065  ¿Por  ventura  podré  yo  olvidarme  de  Ulises  divino,  65 
+
+01  066  del  varón  sin  igual  por  su  ingenio  y  también  por  los  dones 
+
+01  067  que  ofrendó  a  los  eternos,  señores  del  cielo  anchuroso? 
+
+01  068  No  en  verdad:  Posidón,  batidor  de  la  tierra,  es  quien  sigue 
+
+01  069  enconado  por  mor  del  ciclope,  del  gran  Polifemo 
+
+01  070  al  que  Ulises  cegó  siendo  él  el  mayor  por  su  fuerza  70 
+
+01  071  entre  aquellos  gigantes:  pariólo  la  ninfa  Toosa, 
+
+01  072  la  nacida  de  Forcis,  ministro  del  mar  infecundo, 
+
+01  073  que  amorosa  se  dio  a  Posidón  en  las  cóncavas  grutas. 
+
+01  074  Desde  entonces  el  dios,  respetándole  sólo  la  vida, 
+
+01  075  fuerza  a  Ulises  a  errar  alejado  del  suelo  paterno.  75 
+
+01  076  Pero,  ¡ea!,  tratemos  nosotros  de  acuerdo  su  vuelta 
+
+01  077  y  que  el  héroe  regrese  a  su  hogar;  Posidón  por  su  parte 
+
+01  078  cederá  en  sus  enconos,  pues  nada  podrá  en  contra  nuestra 
+
+01  079  ni  luchar  solo  él  contra  todos  los  dioses  eternos.» 
+
+01  080  Contestando  a  su  vez  dijo  Atena,  la  diosa  ojizarca:  80 
+
+01  081  « ¡Padre  nuestro  Cronión,  soberano  entre  todos  los reyes! 
+
+01  082  Si  de  cierto  los  dioses  de  vida  feliz  determinan 
+
+01  083  que  regrese  a  sus  casas  Ulises,  el  rico  en  ingenios, 
+
+01  084  enviemos  a  Hermes,  el  guía  luminoso:  que  vaya 
+
+01  085  al  islote  de  Ogigia  y  en  él  sin  demora  transmita 
+
+01  086  a  la  ninfa  de  hermosos  cabellos  el  firme  decreto 
+
+01  087  de  la  vuelta  del  héroe  sufrido  de  entrañas.  Yo  misma 
+
+01  088  iré  en  tanto  a  las  tierras  de  Itaca;  allí  de  su  hijo 
+
+01  089  en  e:l  pecho  pondré  diligencia  y  valor  por  que  llame 
+
+01  090  en  el  ágora  a  junta  a  los  dáñaos  crinados  y  en  ella 
+
+01  091  haga  frente  a  los  muchos  galanes  que  matan  sin  duelo 
+
+01  092  :sus  ovejas  y  bueyes  rollizos  de  pasos  de  rueda; 
+
+01  093  le  haré  ir  hasta  Pilo  arenosa  y  Esparta  a  que  trate 
+
+01  094  de  saber  del  regreso  del  padre  querido  y  consiga 
+
+01  095  para  él  mismo  también  favorable  renombre  en  las  gentes.» 
+
+01  096  diciendo  ligóse  a  los  pies  las  hermosas  sandalias 
+
+01  097  inmortales,  doradas,  que  suelen  llevarla  por  cima 
+
+01  098  de  las  aguas  y  tierras  sin  fin  con  los  soplos  del  viento. 
+
+01  099  Asió  luego  la  lanza  robusta  con  punta  de  bronce, 
+
+01  100  fuerte,  grande,  pesada:  con  ella  a  los  héroes  por  filas 
+
+01  101  desbarata  en  su  furia  la  diosa  del  padre  terrible. 
+
+01  102  De  un  gran  salto  dejando  las  cumbres  Olimpias  posóse 
+
+01  103  en  la  tierra  itaquesa,  de  frente  a  las  puertas  de  Ulises 
+
+01  104  y  al  umbral  de  su  casa,  empuñando  1a.  lanza  broncínea 
+
+01  105  y  en  figura  de  un  huésped,  de  Mentes,  señor  de  los  tafios. 
+
+01  106  Al  momento  observó  a  los  altivos  galanes:  estaban 
+
+01  107  en  el  patio  gozando  en  jugar  a  las  suertes  y  echados 
+
+01  108  sobre  pieles  de  bueyes  que  habían  inmolado  ellos  mismos. 
+
+01  109  Sus  heraldos  y  activos  sirvientes  hacíanles  los  unos 
+
+01  110  en  cráteras  la  mezcla  del  agua  y  del  vino,  los  otros 
+
+01  111  a  su  vez  con  porosas  esponjas  limpiaban  las  mesas 
+
+01  112  y  acercábanlas  luego  o  trinchaban  la  carne  abundante. 
+
+01  113  El  divino  Telémaco  viola  el  primero;  se  hallaba 
+
+
+01  114  recostado  entre  aquellos  galanes  penando  en  su  alma 
+
+01  115  y  soñando  entre  sí  con  el  héroe  su  padre,  si  acaso 
+
+01  116  pareciese  de  pronto  y  sembrase  el  espanto  entre  ellos, 
+
+01  117  recobrara  su  honor  y  rigiera  de  nuevo  su  casa. 
+
+01  118  Tal  pensando  en  mitad  de  esos  hombres,  fijóse  en  Atena 
+
+01  119  y  salió  decidido  al  umbral;  le  dolía  en  las  entrañas 
+
+01  120  que  algún  huésped  quedase  a  la  puerta.  Llegando  a  su  lado, 
+
+01  121  tras  tenderle  la  mano  cogióle  la  lanza  de  bronce 
+
+01  122  y,  dejándose  oír,  dirigióle  palabras  aladas: 
+
+01  123  «Forastero,  salud,  bien  tratado  serás,  pero  antes 
+
+01  124  de  explicar  a  qué  vienes  habrás  de  saciar  tu  apetito.» 
+
+01  125  Tal  diciendo  marchó  por  delante,  siguióle  Atenea, 
+
+01  126  penetraron  los  dos  bajo  el  techo  del  alto  palacio 
+
+01  127  y,  llevando  él  la  lanza,  la  puso  en  pulido  astillero 
+
+01  128  al  arrimo  de  erguido  pilar  donde  alzaban  sus  puntas 
+
+01  129  muchas  lanzas  también  del  sufrido  de  entrañas  Ulises. 
+
+01  130 130  Sentó  luego  a  la  diosa  en  un  bello  sillón  extendiendo 
+
+01  131 sobre  él  un  buen  paño;  a  sus  plantas  había  un  escañuelo. 
+
+01  132 Él,  tomando  una  silla,  se  puso  a  su  lado  bien  lejos 
+
+01  133  de  los  otros,  no  diese  a  su  huésped  enojo  el  tumulto 
+
+01  134  y  le  agriase  el  manjar  si  quedaba  entre  aquellos  procaces 
+
+01  135  y  también  por  poder  preguntarle  del  padre  en  ausencia. 
+
+01  136  Una  sierva  a  este  punto  llegó  con  un  jarro  de  oro, 
+
+01  137  en  sus  manos  el  agua  vertió  sobre  fuente  de  plata 
+
+01  138  y  le  puso  delante  una  mesa  pulida;  la  honrada 
+
+01  139  despensera,  trayéndole  el  pan,  colocólo  a  su  lado 
+
+01  140  y  otros  muchos  manjares  sirvió  que  en  reserva  tenía. 
+
+01  141  Asomó  el  trinchador,  bien  en  alto  sus  platos  de  carne 
+
+01  142  de  distintas  especies,  y  puso  unas  copas  de  oro 
+
+01  143  que  el  heraldo  una  vez  y  otra  vez  les  llenaba  de  vino. 
+
+01  144  Pero  en  esto  llegaron  los  fieros  galanes  y  en  fila 
+
+01  145  por  sillones  y  sillas  se  fueron  sentando;  vertieron 
+
+01  146  los  heraldos  el  agua  en  sus  manos  en  tanto  las  siervas 
+
+01  147  les  ponían  en  los  cestos  montones  de  pan  y  los  mozos 
+
+01  148  de  otra  parte  venían  a  colmar  de  licor  las  cráteras. 
+
+01  149  A  los  ricos  manjares  así  preparados  tendieron 
+
+01  150  los  galanes  sus  manos  y  ya  que  quedaron  su  hambre 
+
+01  151  y  su  sed  satisfechas  tornaron  su  mente  a  otras  cosas, 
+
+01  152  a  la  danza  y  el  canto  que  son  la  sazón  del  banquete. 
+
+01  153  Hermosísima  cítara  entonces  le  puso  un  heraldo 
+
+01  154  en  las  manos  a  Femio,  al  que  mal  de  su  grado  tenían 
+
+01  155  de  cantor;  él  las  cuerdas  pulsó  y  entonó  un  bello  canto; 
+
+01  156  mas  Telémaco  en  esto,  volviéndose  a  Atena  ojizarca, 
+
+01  157  por  que  no  se  enterasen  los  otros  le  dijo  al  oído: 
+
+01  158  «¿Llevarás,  oh  mi  huésped,  a  mal  lo  que  voy  a  decirte? 
+
+01  159  Estos  hombres  se  cuidan  tan  sólo  de  cítara  y  canto 
+
+01  160  con  razón,  pues  que  comen  sin  costo  de  ajena  despensa; 
+
+01  161  entretanto  la  lluvia  repudre  en  la  tierra  los  huesos 
+
+01  162  descarnados  de  un  héroe  o  el  mar  los  arrastra  en  sus  olas; 
+
+01  163  mas  si  en  Itaca  un  día  le  vieran  llegar  de  regreso, 
+
+01  164  bien  de  cierto  que  todos  quisieran  tener  al  instante 
+
+01  165  más  seguros  los  pies,  no  ya  oro  ni  ricos  vestidos. 
+
+01  166  Pero  aquél  sucumbió  a  la  desgracia  sin  duda  y  no  hay 
+
+01  167  de  tal  pena  consuelo,  por  más  que  algún  hombre  nos  diga 
+
+01  168  que  tendrá  de  volver:  ha  perdido  la  luz  del  regreso. 
+
+01  169  Pero,  ¡ea!,  tú  dime  y  explica  esto  otro.  ¿Quién  eres? 
+
+01  170  no  ¿De  qué  gente?  ¿Cuál  es  tu  ciudad?  ¿Quiénes  fueron  tus padres? 
+
+01  171  ¿En  qué  barco  has  llegado  hasta  aquí?  ¿Cómo  fue  que  sus hombres 
+
+01  172  te  trajeron  a  Itaca?  ¿En  dónde  decíanse  nacidos? 
+
+01  173  Por  tu  pie,  bien  se  deja  pensar,  no  has  venido  a  esta  tierra; 
+
+01  174  dime  en  todo  verdad,  porque  bien  saber  quiero  si  es  ésta 
+
+01  175  tu  primera  arribada  o  mi  padre  te  tuvo  por  huésped: 
+
+01  176  muchos  hombres  venían  aquí  a  nuestra  casa  y  él  mismo 
+
+01  177  en  su  tiempo  gozaba  en  tratar  muchedumbre  de  gente.» 
+
+01  178  Contestándole  dijo  Atenea,  la  diosa  ojizarca: 
+
+01  179  «Pues  yo  voy,  extranjero,  a  explicártelo  todo  fielmente. 
+
+01  180  Me  proclamo  nacido  de  Anquíalo  el  discreto:  soy  Mentes, 
+
+01  181  el  señor  de  los  tafios,  nación  de  gozosos  remeros; 
+
+01  182  con  mi  barco  y  mi  gente  he  llegado  hasta  aquí  navegando 
+
+01  183  por  las  olas  vinosas  con  rumbo  hacia  tierras  extrañas, 
+
+01  184  hacia  Témesa  en  busca  de  bronce  llevándoles  hierro 
+
+01  185  reluciente.  Varado  allá  lejos  quedó  mi  navio 
+
+01  186  en  el  puerto  de  Ritro  al  socaire  del  Neyo  selvoso. 
+
+01  187  Bien  por  huéspedes  uno  de  otro  podemos  tenernos 
+
+01  188  de  familia  y  de  antiguo:  si  no,  que  lo  diga  Laertes 
+
+01  189  el  anciano,  si  a  verle  te  llegas,  pues  cuentan  que  él  nunca 
+
+01  190  viene  ya  a  la  ciudad,  sino  pasa  la  vida  en  el  campo 
+
+01  191  con  sus  penas,  cuidado  no  más  que  por  vieja  sirvienta 
+
+01  192  que  le  da  de  comer  y  beber  cuando  toma  sus  miembros 
+
+01  193  la  fatiga  de  tanto  subir  por  su  viña  del  monte. 
+
+01  194  Pero  yo  vine  acá  por  decirse  que  había  ya  tu  padre 
+
+01  195  regresado  al  país,  siendo  así  que  han  cortado  los  dioses 
+
+01  196  su  camino:  verdad  es  que  Ulises  no  ha  muerto  en  la  tierra, 
+
+01  197  antes  bien,  está  preso  con  vida  en  el  ancho  océano, 
+
+01  198  pues  en  isla  que  cercan  las  olas  lo  guardan  infames 
+
+01  199  y  selváticas  gentes  forzando  sus  vivos  deseos. 
+
+01  200  Yo  no  obstante  te  voy  a  anunciar  todo  aquello  que  inspiran 
+
+01  201  a  mi  mente  los  dioses  y  pienso  tendrá  cumplimiento 
+
+01  202  aun  sin  ser  adivino  ni  experto  en  presagios:  no  es  mucho 
+
+01  203  lo  que  ya  separado  estará  de  su  patria  querida, 
+
+01  204  aunque  lleguen  a  atarle  con  férrea  cadena,  que  él  piensa 
+
+01  205  y  medita  el  regreso,  pues  siempre  fue  ducho  en  ardides. 
+
+01  206  Pero,  ¡ea!,  pon  mente  a  esto  otro  y  explica  fielmente: 
+
+01  207  ¿dices  tú,  tan  mayor,  que  eres  hijo  de  Ulises?  Mas  cierto, 
+
+01  208  tu  cabeza  es  la  misma  de  aquél  y  el  fulgor  de  tus  ojos; 
+
+01  209  muchas  veces  nos  vimos  en  tratos  recíprocos  antes 
+
+01  210  que  él  tomara  la  ruta  de  Ilión  en  los  combos  bajeles 
+
+01  211  arriesgándose  al  mar  con  los  otros  magnates  aqueos: 
+
+01  212  desde  entonces  ni  vi  más  a  Ulises  ni  Ulises  me  ha  visto.» 
+
+01  213  Y  el  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
+
+01  214  «Pues  yo  voy,  extranjero,  a  explicártelo  todo  fielmente. 
+
+01  215  De  él  nacido  me  dice  mi  madre,  mas  yo  por  mí  mismo 
+
+01  216  no  lo  puedo  saber:  ¿qué  mortal  reconoce  su  sangre? 
+
+01  217  Bien  quisiera  ser  hijo  de  un  padre  feliz  al  que  hallara 
+
+01  218  la  vejez  disfrutando  en  mitad  de  sus  propias  haciendas, 
+
+01  219  mas  mi  padre  es  el  más  desdichado  de  todos  los  hombres: 
+
+01  220  de  ese  tal  según  cuentan  nací,  ya  que  tú  me  preguntas.» 
+
+01  221  Contestando  a  su  vez  dijo  Atena,  la  diosa  ojizarca: 
+
+01  222  «No  dejaron  sin  gloria  los  dioses  la  estirpe  que  dices, 
+
+01  223  pues  Penélope  en  ti  tan  buen  hijo  alcanzó,  pero  ahora 
+
+01  224  saber  quiero  esto  otro  que  me  has  de  explicar puntualmente. 
+
+01  225  ¿Qué  festín  se  da  aquí?  ¿Para  qué  esta  reunión?  ¿Qué motivo 
+
+01  226  hubo  a  hacerla?  ¿Es  convite  o  banquete  de  bodas?  No  escote 
+
+01  227  ciertamente.  Insolencia  y  ultraje  parece  en  tus  salas 
+
+01  228  •tal  banquete  capaz  de  indignar  a  cualquiera  con  seso 
+
+01  229  que  llegando  hasta  aquí  contemplara  tamaño  descaro.». 
+
+01  230  El  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
+
+01  231  «Pues  así  de  estas  cosas,  mi  huésped,  preguntas  e inquieres, 
+
+01  232  te  diré  que  esta  casa  fue  en  tiempos  feliz  e  intachable 
+
+01  233  mientras  ese  que  sabes  vivió  en  el  país;  mas  ahora 
+
+01  234  otra  cosa  tramando  ruinas  quisieron  los  dioses, 
+
+01  235  que  han  borrado  su  fama  en  el  mundo  cual  nunca  lo hicieron 
+
+01  236  con  ningún  otro  hombre:  no  fuera  tan  grande  mi  pena 
+
+01  237  si  él  cayera  en  Ilion  en  mitad  de  sus  tropas  o  en  brazos 
+
+01  238  de  los  suyos  después  de  acabada  la  guerra,  que  entonces 
+
+01  239  los  argivos  en  pleno  le  hubieran  alzado  una  tumba 
+
+01  240  y  un  renombre  glorioso  le  hubiera  quedado  a  este  hijo. 
+
+01  241  Mas  al  cabo  los  vientos  furiosos  lo  han  hecho  en  la  sombra 
+
+01  242  su  botín;  sin  ser  visto  ni  oído  se  fue,  me  ha  dejado 
+
+01  243  pesadumbres  y  llanto  y  no  lloro  por  él  solamente, 
+
+01  244  que  otros  duelos  funestos  vinieron  a  darme  los  dioses: 
+
+01  245  cuantos  proceres  tienen  ahora  poder  en  las  islas 
+
+01  246  de  Duliquio,  de  Sama  y  de  Zante,  la  rica  de  bosques, 
+
+01  247  y  los  otros  que  en  Itaca  abrupta  detentan  el  mando 
+
+01  248  con  mi  madre  pretenden  casar  y  disipan  mi  hacienda. 
+
+01  249  Ella,  en  tanto,  ni  puede  negarse  a  una  boda  que  odia 
+
+01  250  ni  al  abuso  dar  fin  y  ellos  comen,  devoran  mi  casa 
+
+01  251  y  muy  pronto  también  me  tendrán  devorado  a  mí  mismo.» 
+
+01  252  Enojada,  a  su  vez,  contestábale  Palas  Atena: 
+
+01  253  «Es  de  ver  cuánta  falta  te  hace  ese  Ulises  ausente 
+
+01  254  que  a  estos  hombres  osados  pusiera  las  manos  encima. 
+
+01  255  ¡Ah,  si  ahora,  asomando  de  pronto  al  umbral  del  palacio 
+
+01  256  detuviérase  en  él  con  el  casco,  el  escudo  y  las  picas 
+
+01  257  cual  yo  mismo  primero  en  mi  casa  llegué  a  conocerlo 
+
+01  258  disfrutando  y  bebiendo  a  la  vuelta  de  Éfira,  en  donde 
+
+01  259  hospedado  le  había  la  mansión  del  mermérida  lio! 
+
+01  260  Por  allá  vino  Ulises  también  en  su  rápida  nave 
+
+01  261  a  pedir  un  veneno  mortal  para  el  cuerpo  del  hombre 
+
+01  262  con  que  untar  sus  broncíneas  saetas;  mas  lio  negóse 
+
+01  263  a  atender  su  demanda  por  miedo  a  los  dioses  eternos 
+
+01  264  y  en  su  amor  sin  medida  entregóselo  en  cambio  mi  padre. 
+
+01  265  En  tal  guisa  debiera  él  aquí  presentarse  a  estos  mozos; 
+
+01  266  bien  aprisa  acabara  su  vida  y  se  aguaran  sus  bodas. 
+
+01  267  Ello  todo,  no  obstante,  en  las  haldas  está  de  los  dioses, 
+
+01  268  que  haya  o  no  de  volver  al  hogar  y  cumplir  la  venganza 
+
+01  269  en  sus  propios  palacios;  tú,  en  cambio,  forzoso  es  que  pienses 
+
+01  270  en  el  modo  de  echar  de  esta  casa  a  esas  gentes.  Veamos, 
+
+01  271  tus  sentidos  aviva  y  se  graben  en  ti  mis  palabras: 
+
+01  272  llama  a  junta  mañana  en  la  plaza  a  los  nobles  aqueos 
+
+01  273  y  ante  todos  explica  el  asunto;  que  sean  las  deidades 
+
+01  274  tus  testigos  y  ordena  a  esos  mozos  marchar  a  sus  casas. 
+
+01  275  Si  tu  madre  quisiere  casarse,  que  vuelva  de  nuevo 
+
+01  276  a  habitar  la  mansión  de  su  padre  opulento  y,  en  tanto, 
+
+01  277  los  galanes  preparen  la  boda  y  apresten  los  dones 
+
+01  278  cuantos  cumple  ofrecer  por  la  hija  querida  a  los  suyos. 
+
+01  279  Y  a  ti  mismo  un  consejo  prudente  si  quieres  seguirlo: 
+
+01  280  ve  y  escoge  la  nave  mejor  y  con  veinte  remeros 
+
+01  281  sal  e  intenta  saber  de  tu  padre  perdido  hace  tanto, 
+
+01  282  ya  te  venga  a  informar  algún  hombre,  ya  escuches  la  fama 
+
+01  283  que  venida  de  Zeus  esparce  su  voz  por  el  mundo; 
+
+01  284  marcha  a  Pilo  primero  e  inquiere  de  Néstor  divino; 
+
+01  285  desde  Pilo  ve  a  Esparta  y  pregúntale  allí  a  Menelao, 
+
+01  286  que  el  postrero  volvió  de  los  dáñaos  vestidos  de  bronce; 
+
+01  287  y,  si  nuevas  te  dan  de  que  vive  y  regresa  tu  padre, 
+
+01  288  por  muy  grande  que  sea  tu  aflicción  persevera  hasta  un  año, 
+
+01  289  mas,  si  sabes  que  ha  muerto  y  no  cuenta  en  los  vivos,  retorna 
+
+01  290  sin  mayor  dilación  a  la  patria  querida  y  levanta 
+
+01  291  en  su  honor  un  gran  túmulo,  ofrécele  fúnebres  dones, 
+
+01  292  cuantos  bien  te  parezca,  y  entrega  tu  madre  a  otro  esposo. 
+
+01  293  Una  vez  que  lo  hagas  y  acabes  aquello  que  digo 
+
+01  294  te  pondrás  a  pensar  con  la  mente  y  el  alma  en  el  modo 
+
+01  295  de  matar  a  esos  hombres  aquí  en  tu  palacio,  ya  sea 
+
+01  296  con  engaños,  ya  en  lucha  a  la  luz,  pues  en  nada  te  cuadra 
+
+01  297  que  te  muestres  aún  niño:  eres  ya  muy  mayor  para  ello. 
+
+01  298  ¿Por  ventura  no  escuchas  la  fama  ganada  en  el  mundo 
+
+01  299  por  Orestes  divino  vengando  la  muerte  paterna 
+
+01  300  en  Egisto  falaz,  matador  de  su  padre  glorioso? 
+
+01  301  Tú,  querido,  también,  pues  te  veo  tan  alto  y  gallardo, 
+
+01  302  ten  valor  y  que  alaben  tus  hechos  los  hombres  futuros; 
+
+01  303  mas  yo  debo  bajar,  que  ya  es  hora,  a  la  rápida  nave 
+
+01  304  y  buscar  a  mi  gente  que  ansiosa  me  espera;  tú  sigue 
+
+01  305  vigilándolo  todo  y  atiende  a  cumplir  mis  consejos.» 
+
+01  306  El  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
+
+01  307  «Forastero,  has  hablado  en  verdad  con  afecto entrañable, 
+
+01  308  como  un  padre  a  su  hijo:  no  habré  de  olvidar  tus  palabras. 
+
+01  309  Pero,  ¡ea!,  domina  tus  prisas  y  quédate  un  poco, 
+
+01  310  que  después  de  bañarte  y  haber  esparcido  tu  mente 
+
+01  311  puedas  ir  a  tu  nave  gozoso  con  un  buen  regalo 
+
+01  312  de  gran  precio  que  yo  he  de  entregarte:  ha  de  ser  una alhaja 
+
+01  313  como  suele  a  los  huéspedes  dar  algún  huésped  amigo.» 
+
+01  314  Contestando  a  su  vez  dijo  Atena,  la  diosa  ojizarca: 
+
+01  315  «No  detengas  mi  marcha,  que  ya  se  me  tarda  el  camino, 
+
+01  316  y  ese  don  que  tu  afecto  te  impulsa  a  ofrecerme  se  quede 
+
+01  317  para  el  tiempo  en  que  pase  de  vuelta  a  mi  patria;  y entonces 
+
+01  318  tenlo  bien  escogido,  que  no  quedará  sin  retorno.» 
+
+01  319  Tal  diciendo  marchóse  de  allá  la  ojizarca  Atenea 
+
+01  320  como  un  ave  que  escapa  a  la  vista;  dejóle  en  el  alma 
+
+01  321  fortaleza  y  valor  y  un  recuerdo  más  vivo  que  antes 
+
+01  322  de  su  padre  querido;  notándolo  luego  en  su  mente 
+
+01  323  le  tomó  el  estupor  y  llegó  a  conocerla  por  diosa. 
+
+01  324  Mas  bien  pronto  el  divino  varón  se  reunió  con  los  otros. 
+
+01  325  Un  aedo  famoso  cantaba  en  mitad  y  sentados 
+
+01  326  los  demás  en  silencio  le  oían;  narraba  el  regreso 
+
+01  327  desastroso  de  Ilion  que  a  los  dáñaos  impuso  Atenea. 
+
+01  328  En  el  piso  de  arriba  fue  a  herir  aquel  canto  divino 
+
+01  329  a  la  hija  de  Icario,  discreta  Penélope:  al  punto 
+
+01  330  descendió  de  su  estancia  tomando  la  larga  escalera, 
+
+01  331  mas  no  sola,  seguíanla  de  cerca  dos  siervas;  y  cuando 
+
+01  332  la  mujer  entre  todas  divina  avistó  a  sus  galanes, 
+
+01  333  a  la  puerta  quedó  del  salón  bien  labrado,  ajustóse 
+
+01  334  el  espléndido  velo,  cubrió  sus  mejillas,  las  fieles 
+
+01  335  servidoras  pusiéronse  a  un  lado  y  a  otro  y,  dejando 
+
+01  336  que  corriese  su  llanto,  le  dijo  al  aedo  divino: 
+
+01  337  «Otras  muchas  leyendas,  ¡oh  Femio!,  conoces  de  cierto 
+
+01  338  de  guerreros  y  dioses,  que  hechizan  las  mentes  humanas 
+
+01  339  al  cantar  del  aedo;  entona  una  de  ellas  y  beban 
+
+01  340  en  silencio  su  vino  esos  hombres,  mas  corta  ese  canto 
+
+01  341  desdichado;  royéndome  va  el  corazón  en  el  pecho, 
+
+01  342  pues  en  mí  como  en  nadie  se  ceba  un  dolor  sin  olvido, 
+
+01  343  que  tal  es  el  esposo  que  añoro  en  perpetuo  recuerdo, 
+
+01  344  cuya  fama  ha  llenado  la  Hélade  y  tierras  de  Argos.» 
+
+01  345  Y  el  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
+
+01  346  «¿Por  qué,  oh  madre,  le  impides  al  hábil  aedo  que  trate 
+
+01  347  de  agradar  como  quiera  su  genio  le  inspire?  La  culpa 
+
+01  348  no  la  tiene  el  cantor,  sino  Zeus,  que  reparte  sus  dones 
+
+01  349  y  los  da  a  cada  cual  de  los  hombres  según  su  talante. 
+
+01  350  No  llevemos  a  mal  que  éste  diga  el  funesto  destino 
+
+01  351  de  los  dáñaos;  la  gente  celebra  entre  todos  los  cantos 
+
+01  352  el  postrero,  el  más  nuevo  que  viene  a  halagar  sus  oídos. 
+
+01  353  A  escucharlo  se  avengan  tu  mente  y  tu  alma,  que  Ulises 
+
+01  354  no  fue  solo  en  perder  allá  en  Troya  la  luz  del  regreso; 
+
+01  355  muchos  otros  varones  cayeron  también;  mas  tú  vete 
+
+01  356  a  tus  salas  de  nuevo  y  atiende  a  tus  propias  labores, 
+
+01  357  al  telar  y  a  la  rueca,  y  ordena,  asimismo,  a  tus  siervas 
+
+01  358  aplicarse  al  trabajo;  el  hablar  les  compete  a  los  hombres 
+
+01  359  y  entre  todos  a  mí,  porque  tengo  el  poder  en  la  casa.» 
+
+01  360  Admirada  la  madre  tornóse  y  marchó  a  su  aposento 
+
+01  361  con  el  recio  discurso  del  hijo  grabado  en  el  alma. 
+
+01  362  A  los  altos  subió  de  sus  siervas  seguida  y  al  llanto 
+
+01  363  se  entregó  por  Ulises,  su  esposo.  Por  fin  dulce  sueño 
+
+01  364  en  sus  párpados  vino  a  verter  la  ojizarca  Atenea. 
+
+01  365  Los  galanes  gritaban  allá  por  la  sala  sombría. 
+
+01  366  Todos  ellos  ansiaban  yacer  con  Penélope;  entonces 
+
+01  367  el  discreto  Telémaco  hablóles  así:  «Pretendientes 
+
+01  368  que  con  esa  insolente  altivez  asediáis  a  mi  madre, 
+
+01  369  del  banquete  gocemos  en  paz  y  que  tal  griterío 
+
+01  370  cese  al  punto,  que  es  dulce  escuchar  a  un  cantor  como  éste, 
+
+01  371  semejante  a  su  voz  a  las  mismas  deidades.  Mañana, 
+
+01  372  con  la  luz  de  la  aurora,  saldremos  al  ágora  todos 
+
+01  373  y  bien  claro  os  diré  cuanto  tengo  en  el  ánimo.  Habréis 
+
+01  374  de  dejar  estas  salas:  id,  pues,  preparad  otras  mesas 
+
+01  375  y  comed  de  lo  vuestro  invitándoos  por  turno;  no  obstante, 
+
+01  376  si  pensáis  que  es  mejor  y  más  grato  seguir  devorando 
+
+01  377  la  fortuna  de  un  solo  varón  sin  gastar  de  lo  propio, 
+
+01  378  devoradla,  mas  yo  he  de  clamar  a  los  dioses  eternos 
+
+01  379  por  si  Zeus  me  concede  el  castigo  de  tales  desmanes 
+
+01  380  y  algún  día  en  mi  mismo  palacio  morís  sin  venganza.» 
+
+01  381  Tal  les  dijo  Telémaco  y  ellos,  mordiendo  sus  labios, 
+
+01  382  se  admiraban  del  nuevo  valor  que  mostraba  al  hablarles. 
+
+01  383  Pero  Antínoo,  nacido  de  Eupites,  al  fin  replicóle: 
+
+01  384  «De  seguro,  Telémaco,  inspiran  los  dioses  palabras 
+
+01  385  tan  ufanas  y  te  hacen  hablar  con  tamaña  osadía, 
+
+01  386  mas  que  el  hijo  de  Crono  no  quiera  otorgarte  en  la  tierra 
+
+01  387  itaquesa  que  bañan  los  mares  el  reino  paterno.» 
+
+01  388  Y  el  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
+
+01  389  «Aunque  a  mal  me  lo  lleves,  Antínoo,  tendré  que  decirte 
+
+01  390  que,  si  Zeus  me  lo  da,  tomaré  de  buen  grado  ese  reino. 
+
+01  391  ¿O  es  que  piensas  tal  vez  que  reinar  es  la  gran  desventura 
+
+01  392  de  los  hombres?  No  así,  bien  de  cierto,  que  el  rey  por  de pronto 
+
+01  393  tiene  bien  abastada  su  casa  y  sin  par  es  su  honra. 
+
+01  394  Pero  hay  otros  reyes  en  Itaca,  jóvenes  unos 
+
+01  395  y  mayores  los  otros,  ya  son  multitud:  que  se  quede 
+
+01  396  uno  de  ellos  al  frente  del  reino,  pues  ha  muerto  Ulises; 
+
+01  397  yo  seré  soberano  en  mi  casa,  mandando  en  los  siervos 
+
+01  398  que  ganó  para  mí  en  los  combates  Ulises  divino.» 
+
+01  399  Mas  el  hijo  de  Pólibo,  Eurímaco,  habló  de  este  modo: 
+
+01  400  «Reservado  en  sus  haldas,  Telémaco,  tienen  los  dioses 
+
+01  401  el  secreto  del  dánao  que  habrá  de  reinar  en  la  isla; 
+
+01  402  mas  bien  puedes  tu  hacienda  guardar  y  mandar  en  tu  casa, 
+
+01  403  que  no  habrá  de  venir  quien  por  fuerza  te  quite  los  bienes 
+
+01  404  mientras  Itaca  tenga  habitantes.  Quisiera  tan  sólo 
+
+01  405  que  me  hablases,  ¡oh  príncipe! ,  acerca  de  aquel  forastero. 
+
+01  406  ¿De  qué  tierra  llegó?  ¿Qué  país  por  su  patria  proclama? 
+
+01  407  ¿Dónde  tiene  el  linaje  y  los  campos  paternos?  ¿Noticia 
+
+01  408  te  ha  traído  tal  vez  de  tu  padre  en  ausencia  o  acaso 
+
+01  409  ha  venido  buscando  su  propio  negocio?  ¡Qué  impulso 
+
+01  410  tan  vehemente  al  marcharse  de  aquí!  No  ha  querido quedarse 
+
+01  411  ni  tratar  con  nosotros,  mas  nada  hay  ruin  en  su  aspecto.» 
+
+01  412  El  discreto  Telémaco  entonces  le  dijo  en  respuesta: 
+
+01  413  «No  es  posible,  ¡oh  Eurímaco! ,  ya  de  mi  padre el regreso; 
+
+01  414  yo  ni  creo  las  noticias  que  vienen  de  un  lado  o  de  otro 
+
+01  415  ni  hago  caso  de  agüeros  las  veces  que  llama  mi  madre 
+
+01  416  a  sus  salas  a  algún  adivino  y  allá  le  interroga. 
+
+01  417  Ese  hombre  es  mi  huésped  paterno,  procede  de  Tafos, 
+
+01  418  se  proclama  nacido  de  Anquíalo  el  discreto  y  es  Mentes, 
+
+01  419  el  señor  de  los  tafios,  nación  de  gozosos  remeros.» 
+
+01  420  Tal  Telémaco  habló,  mas  ya  había  conocido  a  la  diosa: 
+
+01  421  ellos,  dándose  al  gusto  del  canto  y  el  baile,  siguieron 
+
+01  422  divirtiéndose  allí  sin  parar  hasta  hacerse  de  noche. 
+
+01  423  Al  venir  las  tinieblas  estaban  aún  en  la  fiesta, 
+
+01  424  mas  vencidos  del  sueño  tornó  cada  cual  a  su  casa 
+
+01  425  y  Telémaco  fuese  también  al  lugar  del  palacio 
+
+01  426  donde  estaba  su  alcoba  labrada  en  seguro  recinto. 
+
+01  427  Allá  el  lecho  buscó  revolviendo  en  su  mente  mil  cosas. 
+
+01  428  Con  antorchas  delante  alumbraba  la  fiel  Euriclea, 
+
+01  429  engendrada  por  Ops  Pisenórida:  habíala  comprado, 
+
+01  430  cuando  aún  no  era  núbil,  Laertes  con  propios  dineros 
+
+01  431  entregando  por  ella  el  valor  de  diez  pares  de  bueyes. 
+
+01  432  Al  igual  de  su  esposa  la  honró  en  el  palacio,  mas  nunca 
+
+01  433  con  la  esclava  se  unió  por  temor  a  las  iras  de  aquélla. 
+
+01  434  Iba,  pues,  allí  dando  a  Telémaco  luz;  le  quería 
+
+01  435  cual  ninguna  otra  sierva  y  habíalo  tenido  en  su  guarda 
+
+01  436  siendo  niño.  La  puerta  él  abrió  del  labrado  aposento, 
+
+01  437  acercóse  a  su  lecho,  quitóse  la  bata  suave 
+
+01  438  y  en  los  brazos  la  echó  de  la  próvida  anciana.  Ésta  luego 
+
+01  439  la  alisó  con  cuidado  y,  plegando  la  prenda,  en  un  clavo 
+
+01  440  junto  al  lecho  de  finos  entalles  dejóla  colgada 
+
+01  441  y  sin  más  se  salió  de  la  alcoba,  tiró  de  la  puerta 
+
+01  442  con  la  anilla  de  plata  y  corrió  con  la  cuerda  el  cerrojo 
+
+01  443  mientras  él  en  la  noche,  cubierto  de  finas  zaleas, 
+
+01  444  meditando  el  viaje  quedó  de  que  Atena  le  hablara. 
 
 ΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞ
 ΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞ
