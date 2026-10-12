@@ -23,8 +23,7 @@ tags:
 
 # El árbol del conocimiento
 
-## Índice Transcrito
-
+## Índice
 ```text
 CAPÍTULO I:    CONOCER EL CONOCER ........................................ 005
 CAPÍTULO II:   LA ORGANIZACIÓN DE LO VIVO ................................ 019
