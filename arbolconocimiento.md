@@ -26,16 +26,16 @@ tags:
 ## Índice Transcrito
 
 ```text
-CAPÍTULO I: CONOCER EL CONOCER ........................................ 005
-CAPÍTULO II: LA ORGANIZACIÓN DE LO VIVO ............................... 019
-CAPÍTULO III: HISTORIA: REPRODUCCIÓN Y HERENCIA ....................... 037
-CAPÍTULO IV: LA VIDA DE LOS METACELULARES ............................. 049
-CAPÍTULO V: LA DERIVA NATURAL DE LOS SERES VIVOS ...................... 063
-CAPÍTULO VI: DOMINIOS CONDUCTUALES .................................... 081
-CAPÍTULO VII: SISTEMA NERVIOSO Y CONOCIMIENTO ......................... 097
-CAPÍTULO VIII: LOS FENÓMENOS SOCIALES ................................. 121
-CAPÍTULO IX: DOMINIOS LINGÜÍSTICOS Y CONCIENCIA HUMANA ................ 137
-CAPÍTULO X: EL ÁRBOL DEL CONOCIMIENTO ................................. 159
-GLOSARIO ............................................................. 168
-FUENTES DE LAS ILUSTRACIONES ......................................... 170
+CAPÍTULO I:    CONOCER EL CONOCER ........................................ 005
+CAPÍTULO II:   LA ORGANIZACIÓN DE LO VIVO ................................ 019
+CAPÍTULO III:  HISTORIA: REPRODUCCIÓN Y HERENCIA ......................... 037
+CAPÍTULO IV:   LA VIDA DE LOS METACELULARES .............................. 049
+CAPÍTULO V:    LA DERIVA NATURAL DE LOS SERES VIVOS ...................... 063
+CAPÍTULO VI:   DOMINIOS CONDUCTUALES ..................................... 081
+CAPÍTULO VII:  SISTEMA NERVIOSO Y CONOCIMIENTO ........................... 097
+CAPÍTULO VIII: LOS FENÓMENOS SOCIALES .................................... 121
+CAPÍTULO IX:   DOMINIOS LINGÜÍSTICOS Y CONCIENCIA HUMANA ................. 137
+CAPÍTULO X:    EL ÁRBOL DEL CONOCIMIENTO ................................. 159
+GLOSARIO ................................................................. 168
+FUENTES DE LAS ILUSTRACIONES ............................................. 170
 ```
